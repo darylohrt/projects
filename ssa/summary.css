@@ -307,3 +307,13 @@
     word-break: break-all;
     text-align: left;
   }
+
+  /* ── Accessibility panel ── */
+
+  .accessibility-panel {
+    border-color: #c3dafe;
+  }
+
+  .accessibility-panel h2 {
+    color: #1e40af;
+  }

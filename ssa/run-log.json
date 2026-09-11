@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "startedAt": "2026-09-10T18:29:47.418Z",
-  "completedAt": "2026-09-10T18:41:00.203Z",
-  "totalDurationMs": 672785,
-  "totalDurationFormatted": "11m 12s",
+  "startedAt": "2026-09-11T20:50:51.742Z",
+  "completedAt": "2026-09-11T21:02:07.097Z",
+  "totalDurationMs": 675355,
+  "totalDurationFormatted": "11m 15s",
   "summary": {
-    "totalPages": 435,
-    "captured": 50,
-    "unchanged": 385,
+    "totalPages": 436,
+    "captured": 91,
+    "unchanged": 345,
     "skipped": 0,
     "failed": 0,
     "retried": 0
   },
   "entries": [
     {
-      "timestamp": "2026-09-10T18:29:52.099Z",
-      "durationMs": 4681,
+      "timestamp": "2026-09-11T20:50:57.203Z",
+      "durationMs": 5462,
       "status": "unchanged",
       "page": "corporate-homepage",
       "viewport": "mobile",
@@ -24,8 +24,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:29:52.995Z",
-      "durationMs": 5577,
+      "timestamp": "2026-09-11T20:50:57.322Z",
+      "durationMs": 5580,
       "status": "unchanged",
       "page": "corporate-homepage",
       "viewport": "desktop",
@@ -34,8 +34,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:29:54.585Z",
-      "durationMs": 7167,
+      "timestamp": "2026-09-11T20:50:58.925Z",
+      "durationMs": 7183,
       "status": "unchanged",
       "page": "corporate-homepage-desktop-menu-about-victory-capital",
       "viewport": "desktop",
@@ -45,8 +45,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:29:55.734Z",
-      "durationMs": 8316,
+      "timestamp": "2026-09-11T20:51:00.060Z",
+      "durationMs": 8318,
       "status": "unchanged",
       "page": "corporate-homepage-desktop-menu-investment-franchises",
       "viewport": "desktop",
@@ -56,8 +56,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:29:56.888Z",
-      "durationMs": 9470,
+      "timestamp": "2026-09-11T20:51:01.190Z",
+      "durationMs": 9448,
       "status": "unchanged",
       "page": "corporate-homepage-desktop-menu-media-center",
       "viewport": "desktop",
@@ -67,8 +67,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:24.890Z",
-      "durationMs": 37472,
+      "timestamp": "2026-09-11T20:51:29.880Z",
+      "durationMs": 38138,
       "status": "unchanged",
       "page": "corporate-homepage-mobile-navigation-open",
       "viewport": "mobile",
@@ -78,18 +78,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:28.836Z",
-      "durationMs": 41418,
-      "status": "unchanged",
-      "page": "investor-homepage",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/investor-homepage.png",
-      "changeStatus": "unchanged",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:30:28.838Z",
-      "durationMs": 41420,
+      "timestamp": "2026-09-11T20:51:33.282Z",
+      "durationMs": 41540,
       "status": "unchanged",
       "page": "investor-homepage",
       "viewport": "desktop",
@@ -98,8 +88,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:30.325Z",
-      "durationMs": 42907,
+      "timestamp": "2026-09-11T20:51:33.374Z",
+      "durationMs": 41632,
+      "status": "unchanged",
+      "page": "investor-homepage",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/investor-homepage.png",
+      "changeStatus": "unchanged",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:51:34.837Z",
+      "durationMs": 43095,
       "status": "unchanged",
       "page": "investor-homepage-expanded-investments-and-solutions",
       "viewport": "mobile",
@@ -109,8 +109,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:31.100Z",
-      "durationMs": 43682,
+      "timestamp": "2026-09-11T20:51:35.624Z",
+      "durationMs": 43882,
       "status": "unchanged",
       "page": "investor-homepage-expanded-education-and-insights",
       "viewport": "mobile",
@@ -120,8 +120,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:31.834Z",
-      "durationMs": 44416,
+      "timestamp": "2026-09-11T20:51:36.209Z",
+      "durationMs": 44467,
       "status": "unchanged",
       "page": "investor-homepage-desktop-menu-investments-and-solutions",
       "viewport": "desktop",
@@ -131,8 +131,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:31.883Z",
-      "durationMs": 44465,
+      "timestamp": "2026-09-11T20:51:36.416Z",
+      "durationMs": 44674,
       "status": "unchanged",
       "page": "investor-homepage-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -142,8 +142,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:32.865Z",
-      "durationMs": 45447,
+      "timestamp": "2026-09-11T20:51:37.236Z",
+      "durationMs": 45494,
       "status": "unchanged",
       "page": "investor-homepage-desktop-menu-tools-and-resources",
       "viewport": "desktop",
@@ -153,8 +153,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:33.887Z",
-      "durationMs": 46469,
+      "timestamp": "2026-09-11T20:51:38.278Z",
+      "durationMs": 46536,
       "status": "unchanged",
       "page": "investor-homepage-desktop-menu-education-and-insights",
       "viewport": "desktop",
@@ -164,8 +164,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:34.932Z",
-      "durationMs": 47514,
+      "timestamp": "2026-09-11T20:51:39.327Z",
+      "durationMs": 47585,
       "status": "unchanged",
       "page": "investor-homepage-desktop-menu-about-victory-capital",
       "viewport": "desktop",
@@ -175,8 +175,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:37.918Z",
-      "durationMs": 50500,
+      "timestamp": "2026-09-11T20:51:42.441Z",
+      "durationMs": 50699,
       "status": "unchanged",
       "page": "529",
       "viewport": "desktop",
@@ -185,8 +185,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:40.077Z",
-      "durationMs": 52659,
+      "timestamp": "2026-09-11T20:51:44.734Z",
+      "durationMs": 52992,
       "status": "unchanged",
       "page": "529-expanded-view-transcript-for-what-is-a-529-plan",
       "viewport": "desktop",
@@ -196,8 +196,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:42.178Z",
-      "durationMs": 54760,
+      "timestamp": "2026-09-11T20:51:46.748Z",
+      "durationMs": 55006,
       "status": "unchanged",
       "page": "529-tab-show-what-is-a-529-plan",
       "viewport": "desktop",
@@ -207,8 +207,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:43.156Z",
-      "durationMs": 55738,
+      "timestamp": "2026-09-11T20:51:47.733Z",
+      "durationMs": 55991,
       "status": "unchanged",
       "page": "529-tab-show-qualified-education-expenses",
       "viewport": "desktop",
@@ -218,8 +218,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:44.164Z",
-      "durationMs": 56746,
+      "timestamp": "2026-09-11T20:51:48.724Z",
+      "durationMs": 56982,
       "status": "unchanged",
       "page": "529-tab-show-flexibility-when-plans-change",
       "viewport": "desktop",
@@ -229,8 +229,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:47.914Z",
-      "durationMs": 60496,
+      "timestamp": "2026-09-11T20:51:51.910Z",
+      "durationMs": 60168,
       "status": "unchanged",
       "page": "about",
       "viewport": "desktop",
@@ -239,8 +239,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:50.259Z",
-      "durationMs": 62841,
+      "timestamp": "2026-09-11T20:51:54.119Z",
+      "durationMs": 62377,
       "status": "unchanged",
       "page": "about-expanded-view-transcript",
       "viewport": "desktop",
@@ -250,8 +250,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:54.527Z",
-      "durationMs": 67109,
+      "timestamp": "2026-09-11T20:51:58.509Z",
+      "durationMs": 66767,
       "status": "unchanged",
       "page": "franchise-detail",
       "viewport": "desktop",
@@ -260,8 +260,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:56.877Z",
-      "durationMs": 69459,
+      "timestamp": "2026-09-11T20:52:00.577Z",
+      "durationMs": 68835,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-investment-vehicle",
       "viewport": "desktop",
@@ -271,8 +271,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:30:57.887Z",
-      "durationMs": 70469,
+      "timestamp": "2026-09-11T20:52:01.476Z",
+      "durationMs": 69734,
       "status": "unchanged",
       "page": "franchise-detail-expanded-rows-per-page",
       "viewport": "desktop",
@@ -282,8 +282,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:01.768Z",
-      "durationMs": 74350,
+      "timestamp": "2026-09-11T20:52:06.123Z",
+      "durationMs": 74381,
       "status": "unchanged",
       "page": "insights-hub",
       "viewport": "desktop",
@@ -292,8 +292,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:03.701Z",
-      "durationMs": 76283,
+      "timestamp": "2026-09-11T20:52:08.315Z",
+      "durationMs": 76573,
       "status": "unchanged",
       "page": "insights-hub-expanded-recommended",
       "viewport": "desktop",
@@ -303,8 +303,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:05.820Z",
-      "durationMs": 78402,
+      "timestamp": "2026-09-11T20:52:10.361Z",
+      "durationMs": 78619,
       "status": "unchanged",
       "page": "investor-homepage-mobile-navigation-open",
       "viewport": "mobile",
@@ -314,18 +314,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:07.298Z",
-      "durationMs": 79880,
-      "status": "captured",
+      "timestamp": "2026-09-11T20:52:11.880Z",
+      "durationMs": 80138,
+      "status": "unchanged",
       "page": "529",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529.png",
-      "changeStatus": "changed",
+      "changeStatus": "unchanged",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:07.827Z",
-      "durationMs": 80409,
+      "timestamp": "2026-09-11T20:52:12.625Z",
+      "durationMs": 80883,
       "status": "unchanged",
       "page": "login-gateway",
       "viewport": "desktop",
@@ -334,19 +334,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:09.094Z",
-      "durationMs": 81676,
-      "status": "captured",
+      "timestamp": "2026-09-11T20:52:13.875Z",
+      "durationMs": 82133,
+      "status": "unchanged",
       "page": "529-expanded-view-transcript-for-what-is-a-529-plan",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-expanded-view-transcript-for-what-is-a-529-plan.png",
-      "changeStatus": "changed",
+      "changeStatus": "unchanged",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:09.600Z",
-      "durationMs": 82182,
+      "timestamp": "2026-09-11T20:52:14.553Z",
+      "durationMs": 82811,
       "status": "unchanged",
       "page": "login-gateway-expanded-prototype-access-details",
       "viewport": "desktop",
@@ -356,63 +356,63 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:10.038Z",
-      "durationMs": 82620,
-      "status": "captured",
+      "timestamp": "2026-09-11T20:52:14.684Z",
+      "durationMs": 82942,
+      "status": "unchanged",
       "page": "529-expanded-career-training-and-lifelong-learning",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-expanded-career-training-and-lifelong-learning.png",
-      "changeStatus": "changed",
+      "changeStatus": "unchanged",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:10.984Z",
-      "durationMs": 83566,
-      "status": "captured",
+      "timestamp": "2026-09-11T20:52:15.520Z",
+      "durationMs": 83778,
+      "status": "unchanged",
       "page": "529-expanded-view-common-questions",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-expanded-view-common-questions.png",
-      "changeStatus": "changed",
+      "changeStatus": "unchanged",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:11.944Z",
-      "durationMs": 84526,
-      "status": "captured",
+      "timestamp": "2026-09-11T20:52:16.357Z",
+      "durationMs": 84615,
+      "status": "unchanged",
       "page": "529-expanded-which-expenses-may-qualify",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-expanded-which-expenses-may-qualify.png",
-      "changeStatus": "changed",
+      "changeStatus": "unchanged",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:12.926Z",
-      "durationMs": 85508,
-      "status": "captured",
+      "timestamp": "2026-09-11T20:52:17.172Z",
+      "durationMs": 85430,
+      "status": "unchanged",
       "page": "529-expanded-what-happens-if-the-beneficiary-does-not-attend-college",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-expanded-what-happens-if-the-beneficiary-does-not-attend-college.png",
-      "changeStatus": "changed",
+      "changeStatus": "unchanged",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:13.884Z",
-      "durationMs": 86466,
-      "status": "captured",
+      "timestamp": "2026-09-11T20:52:18.007Z",
+      "durationMs": 86265,
+      "status": "unchanged",
       "page": "529-expanded-can-unused-funds-be-rolled-into-a-roth-ira",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-expanded-can-unused-funds-be-rolled-into-a-roth-ira.png",
-      "changeStatus": "changed",
+      "changeStatus": "unchanged",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:14.000Z",
-      "durationMs": 86582,
+      "timestamp": "2026-09-11T20:52:18.503Z",
+      "durationMs": 86761,
       "status": "unchanged",
       "page": "portfolio-solutions",
       "viewport": "desktop",
@@ -421,30 +421,41 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:14.837Z",
-      "durationMs": 87419,
-      "status": "captured",
+      "timestamp": "2026-09-11T20:52:18.841Z",
+      "durationMs": 87099,
+      "status": "unchanged",
       "page": "529-expanded-do-i-need-to-live-in-nevada",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-expanded-do-i-need-to-live-in-nevada.png",
-      "changeStatus": "changed",
+      "changeStatus": "unchanged",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:15.806Z",
-      "durationMs": 88388,
-      "status": "captured",
+      "timestamp": "2026-09-11T20:52:19.676Z",
+      "durationMs": 87934,
+      "status": "unchanged",
       "page": "529-expanded-investments-and-solutions",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-expanded-investments-and-solutions.png",
-      "changeStatus": "changed",
+      "changeStatus": "unchanged",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:15.958Z",
-      "durationMs": 88540,
+      "timestamp": "2026-09-11T20:52:20.509Z",
+      "durationMs": 88767,
+      "status": "unchanged",
+      "page": "529-expanded-education-and-insights",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-expanded-education-and-insights.png",
+      "changeStatus": "unchanged",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:52:20.575Z",
+      "durationMs": 88833,
       "status": "unchanged",
       "page": "portfolio-solutions-expanded-view-common-questions",
       "viewport": "desktop",
@@ -454,41 +465,41 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:16.767Z",
-      "durationMs": 89349,
-      "status": "captured",
-      "page": "529-expanded-education-and-insights",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-expanded-education-and-insights.png",
-      "changeStatus": "changed",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:17.734Z",
-      "durationMs": 90316,
-      "status": "captured",
+      "timestamp": "2026-09-11T20:52:21.396Z",
+      "durationMs": 89654,
+      "status": "unchanged",
       "page": "529-expanded-about-victory-capital",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-expanded-about-victory-capital.png",
-      "changeStatus": "changed",
+      "changeStatus": "unchanged",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:19.902Z",
-      "durationMs": 92484,
-      "status": "captured",
+      "timestamp": "2026-09-11T20:52:23.198Z",
+      "durationMs": 91456,
+      "status": "unchanged",
       "page": "529-tab-show-what-is-a-529-plan",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-tab-show-what-is-a-529-plan.png",
-      "changeStatus": "changed",
+      "changeStatus": "unchanged",
       "stateType": "tab",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:20.349Z",
-      "durationMs": 92931,
+      "timestamp": "2026-09-11T20:52:24.025Z",
+      "durationMs": 92283,
+      "status": "unchanged",
+      "page": "529-tab-show-qualified-education-expenses",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-tab-show-qualified-education-expenses.png",
+      "changeStatus": "unchanged",
+      "stateType": "tab",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:52:24.666Z",
+      "durationMs": 92924,
       "status": "unchanged",
       "page": "tax-center",
       "viewport": "desktop",
@@ -497,30 +508,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:20.854Z",
-      "durationMs": 93436,
-      "status": "captured",
-      "page": "529-tab-show-qualified-education-expenses",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-tab-show-qualified-education-expenses.png",
-      "changeStatus": "changed",
-      "stateType": "tab",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:21.769Z",
-      "durationMs": 94351,
-      "status": "captured",
+      "timestamp": "2026-09-11T20:52:24.834Z",
+      "durationMs": 93092,
+      "status": "unchanged",
       "page": "529-tab-show-flexibility-when-plans-change",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/529-tab-show-flexibility-when-plans-change.png",
-      "changeStatus": "changed",
+      "changeStatus": "unchanged",
       "stateType": "tab",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:22.426Z",
-      "durationMs": 95008,
+      "timestamp": "2026-09-11T20:52:26.685Z",
+      "durationMs": 94943,
       "status": "unchanged",
       "page": "tax-center-expanded-view-all-tax-form-guides",
       "viewport": "desktop",
@@ -530,8 +530,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:23.307Z",
-      "durationMs": 95889,
+      "timestamp": "2026-09-11T20:52:27.390Z",
+      "durationMs": 95648,
+      "status": "unchanged",
+      "page": "about",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/about.png",
+      "changeStatus": "unchanged",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:52:27.531Z",
+      "durationMs": 95789,
       "status": "unchanged",
       "page": "tax-center-expanded-expand-details-for-1099-q-coverdell-esa",
       "viewport": "desktop",
@@ -541,8 +551,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:24.186Z",
-      "durationMs": 96768,
+      "timestamp": "2026-09-11T20:52:28.394Z",
+      "durationMs": 96652,
       "status": "unchanged",
       "page": "tax-center-expanded-expand-details-for-1099-div-1099-b",
       "viewport": "desktop",
@@ -552,18 +562,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:24.717Z",
-      "durationMs": 97299,
-      "status": "unchanged",
-      "page": "about",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/about.png",
-      "changeStatus": "unchanged",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:25.151Z",
-      "durationMs": 97733,
+      "timestamp": "2026-09-11T20:52:29.314Z",
+      "durationMs": 97572,
       "status": "unchanged",
       "page": "tax-center-expanded-expand-details-for-1042-s",
       "viewport": "desktop",
@@ -573,19 +573,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:26.053Z",
-      "durationMs": 98635,
-      "status": "unchanged",
-      "page": "tax-center-expanded-expand-details-for-5498-esa",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tax-center-expanded-expand-details-for-5498-esa.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:26.809Z",
-      "durationMs": 99391,
+      "timestamp": "2026-09-11T20:52:29.401Z",
+      "durationMs": 97659,
       "status": "unchanged",
       "page": "about-expanded-view-transcript",
       "viewport": "mobile",
@@ -595,19 +584,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:26.950Z",
-      "durationMs": 99532,
-      "status": "unchanged",
-      "page": "tax-center-expanded-expand-details-for-5498",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tax-center-expanded-expand-details-for-5498.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:27.751Z",
-      "durationMs": 100333,
+      "timestamp": "2026-09-11T20:52:30.334Z",
+      "durationMs": 98592,
       "status": "unchanged",
       "page": "about-expanded-tools-and-resources",
       "viewport": "mobile",
@@ -617,19 +595,30 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:27.892Z",
-      "durationMs": 100474,
+      "timestamp": "2026-09-11T20:52:30.340Z",
+      "durationMs": 98598,
       "status": "unchanged",
-      "page": "tax-center-expanded-expand-details-for-5498-sa",
+      "page": "tax-center-expanded-expand-details-for-5498-esa",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tax-center-expanded-expand-details-for-5498-sa.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tax-center-expanded-expand-details-for-5498-esa.png",
       "changeStatus": "unchanged",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:28.725Z",
-      "durationMs": 101307,
+      "timestamp": "2026-09-11T20:52:31.279Z",
+      "durationMs": 99537,
+      "status": "unchanged",
+      "page": "tax-center-expanded-expand-details-for-5498",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tax-center-expanded-expand-details-for-5498.png",
+      "changeStatus": "unchanged",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:52:31.366Z",
+      "durationMs": 99624,
       "status": "unchanged",
       "page": "about-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -639,8 +628,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:28.857Z",
-      "durationMs": 101439,
+      "timestamp": "2026-09-11T20:52:32.225Z",
+      "durationMs": 100483,
+      "status": "unchanged",
+      "page": "tax-center-expanded-expand-details-for-5498-sa",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tax-center-expanded-expand-details-for-5498-sa.png",
+      "changeStatus": "unchanged",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:52:33.081Z",
+      "durationMs": 101339,
       "status": "unchanged",
       "page": "tax-center-expanded-schedule-notes",
       "viewport": "desktop",
@@ -650,8 +650,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:29.732Z",
-      "durationMs": 102314,
+      "timestamp": "2026-09-11T20:52:33.969Z",
+      "durationMs": 102227,
       "status": "unchanged",
       "page": "tax-center-expanded-supplemental-tax-documents-supporting-tax-reports-for-eligible-victory-capital-f",
       "viewport": "desktop",
@@ -661,8 +661,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:30.632Z",
-      "durationMs": 103214,
+      "timestamp": "2026-09-11T20:52:34.895Z",
+      "durationMs": 103153,
       "status": "unchanged",
       "page": "tax-center-expanded-why-did-i-receive-a-corrected-tax-form",
       "viewport": "desktop",
@@ -672,8 +672,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:31.533Z",
-      "durationMs": 104115,
+      "timestamp": "2026-09-11T20:52:35.329Z",
+      "durationMs": 103587,
+      "status": "unchanged",
+      "page": "franchise-detail",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/franchise-detail.png",
+      "changeStatus": "unchanged",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:52:35.790Z",
+      "durationMs": 104048,
       "status": "unchanged",
       "page": "tax-center-expanded-what-if-i-have-not-received-a-form-i-expected",
       "viewport": "desktop",
@@ -683,40 +693,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:32.835Z",
-      "durationMs": 105417,
-      "status": "unchanged",
-      "page": "franchise-detail",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/franchise-detail.png",
-      "changeStatus": "unchanged",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:33.628Z",
-      "durationMs": 106210,
-      "status": "unchanged",
-      "page": "tax-center-tab-victory-funds",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tax-center-tab-victory-funds.png",
-      "changeStatus": "unchanged",
-      "stateType": "tab",
-      "captureScope": "element"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:34.406Z",
-      "durationMs": 106988,
-      "status": "unchanged",
-      "page": "tax-center-tab-victory-capital-529-education-savings-plan",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tax-center-tab-victory-capital-529-education-savings-plan.png",
-      "changeStatus": "unchanged",
-      "stateType": "tab",
-      "captureScope": "element"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:34.799Z",
-      "durationMs": 107381,
+      "timestamp": "2026-09-11T20:52:37.261Z",
+      "durationMs": 105519,
       "status": "unchanged",
       "page": "franchise-detail-expanded-on-this-page",
       "viewport": "mobile",
@@ -726,19 +704,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:35.186Z",
-      "durationMs": 107768,
+      "timestamp": "2026-09-11T20:52:37.761Z",
+      "durationMs": 106019,
       "status": "unchanged",
-      "page": "tax-center-tab-marketplace",
+      "page": "tax-center-tab-victory-funds",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tax-center-tab-marketplace.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tax-center-tab-victory-funds.png",
       "changeStatus": "unchanged",
       "stateType": "tab",
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:31:35.702Z",
-      "durationMs": 108284,
+      "timestamp": "2026-09-11T20:52:38.167Z",
+      "durationMs": 106425,
       "status": "unchanged",
       "page": "franchise-detail-expanded-u-s-equity",
       "viewport": "mobile",
@@ -748,8 +726,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:36.516Z",
-      "durationMs": 109098,
+      "timestamp": "2026-09-11T20:52:38.547Z",
+      "durationMs": 106805,
+      "status": "unchanged",
+      "page": "tax-center-tab-victory-capital-529-education-savings-plan",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tax-center-tab-victory-capital-529-education-savings-plan.png",
+      "changeStatus": "unchanged",
+      "stateType": "tab",
+      "captureScope": "element"
+    },
+    {
+      "timestamp": "2026-09-11T20:52:38.958Z",
+      "durationMs": 107216,
       "status": "unchanged",
       "page": "franchise-detail-expanded-fixed-income",
       "viewport": "mobile",
@@ -759,8 +748,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:37.376Z",
-      "durationMs": 109958,
+      "timestamp": "2026-09-11T20:52:39.340Z",
+      "durationMs": 107598,
+      "status": "unchanged",
+      "page": "tax-center-tab-marketplace",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tax-center-tab-marketplace.png",
+      "changeStatus": "unchanged",
+      "stateType": "tab",
+      "captureScope": "element"
+    },
+    {
+      "timestamp": "2026-09-11T20:52:39.782Z",
+      "durationMs": 108040,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-investment-vehicle",
       "viewport": "mobile",
@@ -770,8 +770,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:38.205Z",
-      "durationMs": 110787,
+      "timestamp": "2026-09-11T20:52:40.604Z",
+      "durationMs": 108863,
       "status": "unchanged",
       "page": "franchise-detail-expanded-sort-products-and-strategies-by-field",
       "viewport": "mobile",
@@ -781,18 +781,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:38.350Z",
-      "durationMs": 110932,
-      "status": "unchanged",
-      "page": "tools",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tools.png",
-      "changeStatus": "unchanged",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:39.044Z",
-      "durationMs": 111626,
+      "timestamp": "2026-09-11T20:52:41.426Z",
+      "durationMs": 109684,
       "status": "unchanged",
       "page": "franchise-detail-expanded-rows-per-page",
       "viewport": "mobile",
@@ -802,8 +792,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:39.843Z",
-      "durationMs": 112425,
+      "timestamp": "2026-09-11T20:52:42.201Z",
+      "durationMs": 110459,
+      "status": "unchanged",
+      "page": "tools",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/tools.png",
+      "changeStatus": "unchanged",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:52:42.251Z",
+      "durationMs": 110509,
       "status": "unchanged",
       "page": "franchise-detail-expanded-investments-and-solutions",
       "viewport": "mobile",
@@ -813,8 +813,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:40.651Z",
-      "durationMs": 113233,
+      "timestamp": "2026-09-11T20:52:43.057Z",
+      "durationMs": 111315,
       "status": "unchanged",
       "page": "franchise-detail-expanded-education-and-insights",
       "viewport": "mobile",
@@ -824,8 +824,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:41.476Z",
-      "durationMs": 114058,
+      "timestamp": "2026-09-11T20:52:43.855Z",
+      "durationMs": 112113,
       "status": "unchanged",
       "page": "franchise-detail-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -835,8 +835,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:43.735Z",
-      "durationMs": 116317,
+      "timestamp": "2026-09-11T20:52:47.031Z",
+      "durationMs": 115289,
       "status": "unchanged",
       "page": "wealth-advisory",
       "viewport": "desktop",
@@ -845,8 +845,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:45.108Z",
-      "durationMs": 117690,
+      "timestamp": "2026-09-11T20:52:47.440Z",
+      "durationMs": 115698,
       "status": "unchanged",
       "page": "insights-hub",
       "viewport": "mobile",
@@ -855,8 +855,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:45.692Z",
-      "durationMs": 118274,
+      "timestamp": "2026-09-11T20:52:48.982Z",
+      "durationMs": 117240,
       "status": "unchanged",
       "page": "wealth-advisory-expanded-view-common-questions",
       "viewport": "desktop",
@@ -866,19 +866,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:46.552Z",
-      "durationMs": 119134,
-      "status": "unchanged",
-      "page": "wealth-advisory-expanded-does-meeting-the-minimum-mean-i-will-be-accepted",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/wealth-advisory-expanded-does-meeting-the-minimum-mean-i-will-be-accepted.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:47.044Z",
-      "durationMs": 119626,
+      "timestamp": "2026-09-11T20:52:49.504Z",
+      "durationMs": 117762,
       "status": "unchanged",
       "page": "insights-hub-expanded-subscribe-to-updates",
       "viewport": "mobile",
@@ -888,8 +877,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:47.862Z",
-      "durationMs": 120444,
+      "timestamp": "2026-09-11T20:52:49.817Z",
+      "durationMs": 118075,
+      "status": "unchanged",
+      "page": "wealth-advisory-expanded-does-meeting-the-minimum-mean-i-will-be-accepted",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/wealth-advisory-expanded-does-meeting-the-minimum-mean-i-will-be-accepted.png",
+      "changeStatus": "unchanged",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:52:50.312Z",
+      "durationMs": 118570,
       "status": "unchanged",
       "page": "insights-hub-expanded-recommended",
       "viewport": "mobile",
@@ -899,8 +899,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:48.660Z",
-      "durationMs": 121242,
+      "timestamp": "2026-09-11T20:52:51.124Z",
+      "durationMs": 119382,
       "status": "unchanged",
       "page": "insights-hub-expanded-investments-and-solutions",
       "viewport": "mobile",
@@ -910,8 +910,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:49.457Z",
-      "durationMs": 122039,
+      "timestamp": "2026-09-11T20:52:51.922Z",
+      "durationMs": 120180,
       "status": "unchanged",
       "page": "insights-hub-expanded-education-and-insights",
       "viewport": "mobile",
@@ -921,8 +921,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:50.265Z",
-      "durationMs": 122847,
+      "timestamp": "2026-09-11T20:52:52.709Z",
+      "durationMs": 120967,
       "status": "unchanged",
       "page": "insights-hub-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -932,8 +932,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:50.612Z",
-      "durationMs": 123194,
+      "timestamp": "2026-09-11T20:52:55.099Z",
+      "durationMs": 123357,
       "status": "unchanged",
       "page": "investments",
       "viewport": "desktop",
@@ -942,8 +942,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:52.425Z",
-      "durationMs": 125007,
+      "timestamp": "2026-09-11T20:52:56.187Z",
+      "durationMs": 124445,
+      "status": "unchanged",
+      "page": "login-gateway",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/login-gateway.png",
+      "changeStatus": "unchanged",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:52:57.036Z",
+      "durationMs": 125294,
       "status": "unchanged",
       "page": "investments-expanded-view-common-questions",
       "viewport": "desktop",
@@ -953,8 +963,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:53.309Z",
-      "durationMs": 125891,
+      "timestamp": "2026-09-11T20:52:57.864Z",
+      "durationMs": 126122,
       "status": "unchanged",
       "page": "investments-expanded-what-is-the-difference-between-portfolio-solutions-and-wealth-advisory",
       "viewport": "desktop",
@@ -964,29 +974,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:53.666Z",
-      "durationMs": 126248,
-      "status": "unchanged",
-      "page": "login-gateway",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/login-gateway.png",
-      "changeStatus": "unchanged",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:55.265Z",
-      "durationMs": 127847,
-      "status": "unchanged",
-      "page": "investments-tab-plan-for-your-goals",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/investments-tab-plan-for-your-goals.png",
-      "changeStatus": "unchanged",
-      "stateType": "tab",
-      "captureScope": "element"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:55.558Z",
-      "durationMs": 128140,
+      "timestamp": "2026-09-11T20:52:58.098Z",
+      "durationMs": 126356,
       "status": "unchanged",
       "page": "login-gateway-expanded-prototype-access-details",
       "viewport": "mobile",
@@ -996,19 +985,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:56.045Z",
-      "durationMs": 128627,
-      "status": "unchanged",
-      "page": "investments-tab-save-for-retirement",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/investments-tab-save-for-retirement.png",
-      "changeStatus": "unchanged",
-      "stateType": "tab",
-      "captureScope": "element"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:56.337Z",
-      "durationMs": 128919,
+      "timestamp": "2026-09-11T20:52:58.888Z",
+      "durationMs": 127146,
       "status": "unchanged",
       "page": "login-gateway-expanded-tools-and-resources",
       "viewport": "mobile",
@@ -1018,19 +996,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:56.816Z",
-      "durationMs": 129398,
-      "status": "unchanged",
-      "page": "investments-tab-invest-for-a-child",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/investments-tab-invest-for-a-child.png",
-      "changeStatus": "unchanged",
-      "stateType": "tab",
-      "captureScope": "element"
-    },
-    {
-      "timestamp": "2026-09-10T18:31:57.116Z",
-      "durationMs": 129698,
+      "timestamp": "2026-09-11T20:52:59.684Z",
+      "durationMs": 127942,
       "status": "unchanged",
       "page": "login-gateway-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -1040,8 +1007,41 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:31:57.593Z",
-      "durationMs": 130175,
+      "timestamp": "2026-09-11T20:52:59.734Z",
+      "durationMs": 127992,
+      "status": "unchanged",
+      "page": "investments-tab-plan-for-your-goals",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/investments-tab-plan-for-your-goals.png",
+      "changeStatus": "unchanged",
+      "stateType": "tab",
+      "captureScope": "element"
+    },
+    {
+      "timestamp": "2026-09-11T20:53:00.511Z",
+      "durationMs": 128769,
+      "status": "unchanged",
+      "page": "investments-tab-save-for-retirement",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/investments-tab-save-for-retirement.png",
+      "changeStatus": "unchanged",
+      "stateType": "tab",
+      "captureScope": "element"
+    },
+    {
+      "timestamp": "2026-09-11T20:53:01.286Z",
+      "durationMs": 129544,
+      "status": "unchanged",
+      "page": "investments-tab-invest-for-a-child",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/investments-tab-invest-for-a-child.png",
+      "changeStatus": "unchanged",
+      "stateType": "tab",
+      "captureScope": "element"
+    },
+    {
+      "timestamp": "2026-09-11T20:53:02.064Z",
+      "durationMs": 130322,
       "status": "unchanged",
       "page": "investments-tab-victory-capital-portfolio-solutions",
       "viewport": "desktop",
@@ -1051,8 +1051,8 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:31:58.386Z",
-      "durationMs": 130968,
+      "timestamp": "2026-09-11T20:53:02.859Z",
+      "durationMs": 131117,
       "status": "unchanged",
       "page": "investments-tab-victory-capital-wealth-advisory",
       "viewport": "desktop",
@@ -1062,8 +1062,18 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:31:59.177Z",
-      "durationMs": 131759,
+      "timestamp": "2026-09-11T20:53:03.273Z",
+      "durationMs": 131531,
+      "status": "unchanged",
+      "page": "portfolio-solutions",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/portfolio-solutions.png",
+      "changeStatus": "unchanged",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:53:03.639Z",
+      "durationMs": 131897,
       "status": "unchanged",
       "page": "investments-tab-victory-capital-529-education-savings-plan",
       "viewport": "desktop",
@@ -1073,28 +1083,8 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:32:00.673Z",
-      "durationMs": 133255,
-      "status": "unchanged",
-      "page": "portfolio-solutions",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/mobile/portfolio-solutions.png",
-      "changeStatus": "unchanged",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:32:02.326Z",
-      "durationMs": 134908,
-      "status": "unchanged",
-      "page": "investor-learning",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/investor-learning.png",
-      "changeStatus": "unchanged",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:32:02.614Z",
-      "durationMs": 135196,
+      "timestamp": "2026-09-11T20:53:05.263Z",
+      "durationMs": 133521,
       "status": "unchanged",
       "page": "portfolio-solutions-expanded-view-common-questions",
       "viewport": "mobile",
@@ -1104,8 +1094,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:03.419Z",
-      "durationMs": 136001,
+      "timestamp": "2026-09-11T20:53:06.080Z",
+      "durationMs": 134338,
       "status": "unchanged",
       "page": "portfolio-solutions-expanded-are-there-investment-minimums",
       "viewport": "mobile",
@@ -1115,8 +1105,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:04.241Z",
-      "durationMs": 136823,
+      "timestamp": "2026-09-11T20:53:06.522Z",
+      "durationMs": 134780,
+      "status": "unchanged",
+      "page": "investor-learning",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/investor-learning.png",
+      "changeStatus": "unchanged",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:53:06.918Z",
+      "durationMs": 135176,
       "status": "unchanged",
       "page": "portfolio-solutions-expanded-view-all-portfolio-solutions-faqs",
       "viewport": "mobile",
@@ -1126,8 +1126,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:05.060Z",
-      "durationMs": 137642,
+      "timestamp": "2026-09-11T20:53:07.729Z",
+      "durationMs": 135987,
       "status": "unchanged",
       "page": "portfolio-solutions-expanded-what-does-professionally-managed-mean",
       "viewport": "mobile",
@@ -1137,8 +1137,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:05.884Z",
-      "durationMs": 138466,
+      "timestamp": "2026-09-11T20:53:08.550Z",
+      "durationMs": 136808,
       "status": "unchanged",
       "page": "portfolio-solutions-expanded-can-i-change-my-answers-or-run-through-portfolio-planner-again",
       "viewport": "mobile",
@@ -1148,8 +1148,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:07.761Z",
-      "durationMs": 140343,
+      "timestamp": "2026-09-11T20:53:11.439Z",
+      "durationMs": 139697,
       "status": "unchanged",
       "page": "automatic-investing",
       "viewport": "desktop",
@@ -1158,8 +1158,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:09.490Z",
-      "durationMs": 142072,
+      "timestamp": "2026-09-11T20:53:11.627Z",
+      "durationMs": 139885,
       "status": "unchanged",
       "page": "tax-center",
       "viewport": "mobile",
@@ -1168,8 +1168,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:09.762Z",
-      "durationMs": 142344,
+      "timestamp": "2026-09-11T20:53:13.335Z",
+      "durationMs": 141593,
       "status": "unchanged",
       "page": "automatic-investing-expanded-view-transcript",
       "viewport": "desktop",
@@ -1179,19 +1179,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:10.743Z",
-      "durationMs": 143325,
-      "status": "unchanged",
-      "page": "automatic-investing-expanded-view-common-questions",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/automatic-investing-expanded-view-common-questions.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:32:11.573Z",
-      "durationMs": 144155,
+      "timestamp": "2026-09-11T20:53:13.725Z",
+      "durationMs": 141983,
       "status": "unchanged",
       "page": "tax-center-expanded-view-all-tax-form-guides",
       "viewport": "mobile",
@@ -1201,19 +1190,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:11.777Z",
-      "durationMs": 144359,
+      "timestamp": "2026-09-11T20:53:14.311Z",
+      "durationMs": 142569,
       "status": "unchanged",
-      "page": "automatic-investing-expanded-how-often-can-contributions-be-made",
+      "page": "automatic-investing-expanded-view-common-questions",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/automatic-investing-expanded-how-often-can-contributions-be-made.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/automatic-investing-expanded-view-common-questions.png",
       "changeStatus": "unchanged",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:12.660Z",
-      "durationMs": 145242,
+      "timestamp": "2026-09-11T20:53:14.778Z",
+      "durationMs": 143036,
       "status": "unchanged",
       "page": "tax-center-expanded-1099-q-coverdell-esa-irs-deadline-2-2-26",
       "viewport": "mobile",
@@ -1223,19 +1212,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:12.787Z",
-      "durationMs": 145369,
+      "timestamp": "2026-09-11T20:53:15.355Z",
+      "durationMs": 143613,
       "status": "unchanged",
-      "page": "automatic-investing-expanded-can-i-pause-a-plan-instead-of-stopping-it",
+      "page": "automatic-investing-expanded-how-often-can-contributions-be-made",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/automatic-investing-expanded-can-i-pause-a-plan-instead-of-stopping-it.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/automatic-investing-expanded-how-often-can-contributions-be-made.png",
       "changeStatus": "unchanged",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:13.692Z",
-      "durationMs": 146274,
+      "timestamp": "2026-09-11T20:53:15.811Z",
+      "durationMs": 144069,
       "status": "unchanged",
       "page": "tax-center-expanded-1099-div-1099-b-irs-deadline-2-17-26",
       "viewport": "mobile",
@@ -1245,8 +1234,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:14.522Z",
-      "durationMs": 147105,
+      "timestamp": "2026-09-11T20:53:16.367Z",
+      "durationMs": 144625,
+      "status": "unchanged",
+      "page": "automatic-investing-expanded-can-i-pause-a-plan-instead-of-stopping-it",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/automatic-investing-expanded-can-i-pause-a-plan-instead-of-stopping-it.png",
+      "changeStatus": "unchanged",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:53:16.768Z",
+      "durationMs": 145026,
       "status": "unchanged",
       "page": "tax-center-expanded-1042-s-irs-deadline-3-16-26",
       "viewport": "mobile",
@@ -1256,19 +1256,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:14.652Z",
-      "durationMs": 147234,
-      "status": "unchanged",
-      "page": "automatic-investing-tab-victory-funds-accounts",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/automatic-investing-tab-victory-funds-accounts.png",
-      "changeStatus": "unchanged",
-      "stateType": "tab",
-      "captureScope": "element"
-    },
-    {
-      "timestamp": "2026-09-10T18:32:15.325Z",
-      "durationMs": 147907,
+      "timestamp": "2026-09-11T20:53:17.573Z",
+      "durationMs": 145831,
       "status": "unchanged",
       "page": "tax-center-expanded-5498-esa-irs-deadline-4-30-26",
       "viewport": "mobile",
@@ -1278,19 +1267,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:15.729Z",
-      "durationMs": 148311,
+      "timestamp": "2026-09-11T20:53:18.307Z",
+      "durationMs": 146565,
       "status": "unchanged",
-      "page": "automatic-investing-tab-529-plan-accounts",
+      "page": "automatic-investing-tab-victory-funds-accounts",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/automatic-investing-tab-529-plan-accounts.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/automatic-investing-tab-victory-funds-accounts.png",
       "changeStatus": "unchanged",
       "stateType": "tab",
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:32:16.220Z",
-      "durationMs": 148802,
+      "timestamp": "2026-09-11T20:53:18.452Z",
+      "durationMs": 146710,
       "status": "unchanged",
       "page": "tax-center-expanded-5498-irs-deadline-6-1-26",
       "viewport": "mobile",
@@ -1300,8 +1289,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:17.110Z",
-      "durationMs": 149692,
+      "timestamp": "2026-09-11T20:53:19.351Z",
+      "durationMs": 147609,
       "status": "unchanged",
       "page": "tax-center-expanded-5498-sa-irs-deadline-6-1-26",
       "viewport": "mobile",
@@ -1311,8 +1300,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:18.019Z",
-      "durationMs": 150601,
+      "timestamp": "2026-09-11T20:53:19.453Z",
+      "durationMs": 147711,
+      "status": "unchanged",
+      "page": "automatic-investing-tab-529-plan-accounts",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/direct/desktop/automatic-investing-tab-529-plan-accounts.png",
+      "changeStatus": "unchanged",
+      "stateType": "tab",
+      "captureScope": "element"
+    },
+    {
+      "timestamp": "2026-09-11T20:53:20.244Z",
+      "durationMs": 148502,
       "status": "unchanged",
       "page": "tax-center-expanded-schedule-notes",
       "viewport": "mobile",
@@ -1322,8 +1322,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:18.852Z",
-      "durationMs": 151434,
+      "timestamp": "2026-09-11T20:53:21.056Z",
+      "durationMs": 149314,
       "status": "unchanged",
       "page": "tax-center-expanded-supplemental-tax-documents-supporting-tax-reports-for-eligible-victory-capital-f",
       "viewport": "mobile",
@@ -1333,8 +1333,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:19.684Z",
-      "durationMs": 152266,
+      "timestamp": "2026-09-11T20:53:21.886Z",
+      "durationMs": 150144,
       "status": "unchanged",
       "page": "tax-center-expanded-why-did-i-receive-a-corrected-tax-form",
       "viewport": "mobile",
@@ -1344,8 +1344,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:20.528Z",
-      "durationMs": 153110,
+      "timestamp": "2026-09-11T20:53:22.690Z",
+      "durationMs": 150948,
       "status": "unchanged",
       "page": "tax-center-expanded-what-if-i-have-not-received-a-form-i-expected",
       "viewport": "mobile",
@@ -1355,8 +1355,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:21.368Z",
-      "durationMs": 153950,
+      "timestamp": "2026-09-11T20:53:23.506Z",
+      "durationMs": 151764,
       "status": "unchanged",
       "page": "tax-center-expanded-investments-and-solutions",
       "viewport": "mobile",
@@ -1366,8 +1366,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:22.203Z",
-      "durationMs": 154785,
+      "timestamp": "2026-09-11T20:53:24.322Z",
+      "durationMs": 152580,
       "status": "unchanged",
       "page": "tax-center-expanded-education-and-insights",
       "viewport": "mobile",
@@ -1377,8 +1377,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:23.043Z",
-      "durationMs": 155625,
+      "timestamp": "2026-09-11T20:53:25.130Z",
+      "durationMs": 153388,
       "status": "unchanged",
       "page": "tax-center-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -1388,8 +1388,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:24.775Z",
-      "durationMs": 157357,
+      "timestamp": "2026-09-11T20:53:26.917Z",
+      "durationMs": 155175,
       "status": "unchanged",
       "page": "tax-center-tab-victory-funds",
       "viewport": "mobile",
@@ -1399,8 +1399,8 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:32:25.557Z",
-      "durationMs": 158139,
+      "timestamp": "2026-09-11T20:53:27.714Z",
+      "durationMs": 155972,
       "status": "unchanged",
       "page": "tax-center-tab-victory-capital-529-education-savings-plan",
       "viewport": "mobile",
@@ -1410,8 +1410,8 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:32:26.341Z",
-      "durationMs": 158923,
+      "timestamp": "2026-09-11T20:53:28.499Z",
+      "durationMs": 156757,
       "status": "unchanged",
       "page": "tax-center-tab-marketplace",
       "viewport": "mobile",
@@ -1421,8 +1421,8 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:32:28.901Z",
-      "durationMs": 161483,
+      "timestamp": "2026-09-11T20:53:30.993Z",
+      "durationMs": 159251,
       "status": "unchanged",
       "page": "tools",
       "viewport": "mobile",
@@ -1431,8 +1431,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:31.119Z",
-      "durationMs": 163701,
+      "timestamp": "2026-09-11T20:53:32.844Z",
+      "durationMs": 161102,
       "status": "unchanged",
       "page": "tools-expanded-investments-and-solutions",
       "viewport": "mobile",
@@ -1442,8 +1442,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:31.915Z",
-      "durationMs": 164497,
+      "timestamp": "2026-09-11T20:53:33.648Z",
+      "durationMs": 161906,
       "status": "unchanged",
       "page": "tools-expanded-education-and-insights",
       "viewport": "mobile",
@@ -1453,8 +1453,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:32.708Z",
-      "durationMs": 165290,
+      "timestamp": "2026-09-11T20:53:34.458Z",
+      "durationMs": 162716,
       "status": "unchanged",
       "page": "tools-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -1464,8 +1464,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:36.474Z",
-      "durationMs": 169056,
+      "timestamp": "2026-09-11T20:53:38.199Z",
+      "durationMs": 166457,
       "status": "unchanged",
       "page": "wealth-advisory",
       "viewport": "mobile",
@@ -1474,8 +1474,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:38.414Z",
-      "durationMs": 170996,
+      "timestamp": "2026-09-11T20:53:40.045Z",
+      "durationMs": 168303,
       "status": "unchanged",
       "page": "wealth-advisory-expanded-view-common-questions",
       "viewport": "mobile",
@@ -1485,8 +1485,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:39.218Z",
-      "durationMs": 171800,
+      "timestamp": "2026-09-11T20:53:40.858Z",
+      "durationMs": 169116,
       "status": "unchanged",
       "page": "wealth-advisory-expanded-does-meeting-the-minimum-mean-i-will-be-accepted",
       "viewport": "mobile",
@@ -1496,8 +1496,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:40.031Z",
-      "durationMs": 172613,
+      "timestamp": "2026-09-11T20:53:41.682Z",
+      "durationMs": 169940,
       "status": "unchanged",
       "page": "wealth-advisory-expanded-what-does-the-relationship-cost",
       "viewport": "mobile",
@@ -1507,8 +1507,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:40.841Z",
-      "durationMs": 173423,
+      "timestamp": "2026-09-11T20:53:42.505Z",
+      "durationMs": 170763,
       "status": "unchanged",
       "page": "wealth-advisory-expanded-investments-and-solutions",
       "viewport": "mobile",
@@ -1518,8 +1518,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:41.651Z",
-      "durationMs": 174233,
+      "timestamp": "2026-09-11T20:53:43.308Z",
+      "durationMs": 171566,
       "status": "unchanged",
       "page": "wealth-advisory-expanded-education-and-insights",
       "viewport": "mobile",
@@ -1529,8 +1529,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:42.458Z",
-      "durationMs": 175040,
+      "timestamp": "2026-09-11T20:53:44.119Z",
+      "durationMs": 172377,
       "status": "unchanged",
       "page": "wealth-advisory-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -1540,8 +1540,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:46.152Z",
-      "durationMs": 178734,
+      "timestamp": "2026-09-11T20:53:47.736Z",
+      "durationMs": 175994,
       "status": "unchanged",
       "page": "investments",
       "viewport": "mobile",
@@ -1550,8 +1550,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:48.063Z",
-      "durationMs": 180645,
+      "timestamp": "2026-09-11T20:53:49.511Z",
+      "durationMs": 177769,
       "status": "unchanged",
       "page": "investments-expanded-plan-for-your-goals",
       "viewport": "mobile",
@@ -1561,8 +1561,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:48.853Z",
-      "durationMs": 181435,
+      "timestamp": "2026-09-11T20:53:50.301Z",
+      "durationMs": 178559,
       "status": "unchanged",
       "page": "investments-expanded-invest-for-a-child",
       "viewport": "mobile",
@@ -1572,8 +1572,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:49.653Z",
-      "durationMs": 182235,
+      "timestamp": "2026-09-11T20:53:51.098Z",
+      "durationMs": 179356,
       "status": "unchanged",
       "page": "investments-expanded-victory-capital-portfolio-solutions",
       "viewport": "mobile",
@@ -1583,8 +1583,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:50.450Z",
-      "durationMs": 183032,
+      "timestamp": "2026-09-11T20:53:51.908Z",
+      "durationMs": 180166,
       "status": "unchanged",
       "page": "investments-expanded-victory-capital-529-education-savings-plan",
       "viewport": "mobile",
@@ -1594,8 +1594,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:51.258Z",
-      "durationMs": 183840,
+      "timestamp": "2026-09-11T20:53:52.721Z",
+      "durationMs": 180979,
       "status": "unchanged",
       "page": "investments-expanded-view-common-questions",
       "viewport": "mobile",
@@ -1605,8 +1605,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:52.057Z",
-      "durationMs": 184639,
+      "timestamp": "2026-09-11T20:53:53.538Z",
+      "durationMs": 181796,
       "status": "unchanged",
       "page": "investments-expanded-what-is-the-difference-between-portfolio-solutions-and-wealth-advisory",
       "viewport": "mobile",
@@ -1616,8 +1616,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:52.874Z",
-      "durationMs": 185456,
+      "timestamp": "2026-09-11T20:53:54.351Z",
+      "durationMs": 182609,
       "status": "unchanged",
       "page": "investments-expanded-investments-and-solutions",
       "viewport": "mobile",
@@ -1627,8 +1627,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:53.691Z",
-      "durationMs": 186273,
+      "timestamp": "2026-09-11T20:53:55.165Z",
+      "durationMs": 183423,
       "status": "unchanged",
       "page": "investments-expanded-education-and-insights",
       "viewport": "mobile",
@@ -1638,8 +1638,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:54.516Z",
-      "durationMs": 187098,
+      "timestamp": "2026-09-11T20:53:55.980Z",
+      "durationMs": 184238,
       "status": "unchanged",
       "page": "investments-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -1649,8 +1649,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:32:58.402Z",
-      "durationMs": 190984,
+      "timestamp": "2026-09-11T20:53:59.462Z",
+      "durationMs": 187720,
       "status": "unchanged",
       "page": "investor-learning",
       "viewport": "mobile",
@@ -1659,8 +1659,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:00.485Z",
-      "durationMs": 193067,
+      "timestamp": "2026-09-11T20:54:01.446Z",
+      "durationMs": 189704,
       "status": "unchanged",
       "page": "investor-learning-expanded-subscribe-to-updates",
       "viewport": "mobile",
@@ -1670,8 +1670,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:01.319Z",
-      "durationMs": 193901,
+      "timestamp": "2026-09-11T20:54:02.279Z",
+      "durationMs": 190537,
       "status": "unchanged",
       "page": "investor-learning-expanded-recommended",
       "viewport": "mobile",
@@ -1681,8 +1681,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:02.132Z",
-      "durationMs": 194714,
+      "timestamp": "2026-09-11T20:54:03.098Z",
+      "durationMs": 191356,
       "status": "unchanged",
       "page": "investor-learning-expanded-investments-and-solutions",
       "viewport": "mobile",
@@ -1692,8 +1692,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:02.944Z",
-      "durationMs": 195526,
+      "timestamp": "2026-09-11T20:54:03.915Z",
+      "durationMs": 192173,
       "status": "unchanged",
       "page": "investor-learning-expanded-education-and-insights",
       "viewport": "mobile",
@@ -1703,8 +1703,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:03.770Z",
-      "durationMs": 196352,
+      "timestamp": "2026-09-11T20:54:04.739Z",
+      "durationMs": 192997,
       "status": "unchanged",
       "page": "investor-learning-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -1714,8 +1714,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:07.538Z",
-      "durationMs": 200120,
+      "timestamp": "2026-09-11T20:54:08.530Z",
+      "durationMs": 196788,
       "status": "unchanged",
       "page": "automatic-investing",
       "viewport": "mobile",
@@ -1724,8 +1724,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:09.447Z",
-      "durationMs": 202029,
+      "timestamp": "2026-09-11T20:54:10.483Z",
+      "durationMs": 198741,
       "status": "unchanged",
       "page": "automatic-investing-expanded-view-transcript",
       "viewport": "mobile",
@@ -1735,8 +1735,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:10.257Z",
-      "durationMs": 202839,
+      "timestamp": "2026-09-11T20:54:11.298Z",
+      "durationMs": 199557,
       "status": "unchanged",
       "page": "automatic-investing-expanded-view-common-questions",
       "viewport": "mobile",
@@ -1746,8 +1746,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:11.067Z",
-      "durationMs": 203649,
+      "timestamp": "2026-09-11T20:54:12.115Z",
+      "durationMs": 200373,
       "status": "unchanged",
       "page": "automatic-investing-expanded-how-often-can-contributions-be-made",
       "viewport": "mobile",
@@ -1757,8 +1757,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:11.871Z",
-      "durationMs": 204453,
+      "timestamp": "2026-09-11T20:54:12.914Z",
+      "durationMs": 201172,
       "status": "unchanged",
       "page": "automatic-investing-expanded-can-i-pause-a-plan-instead-of-stopping-it",
       "viewport": "mobile",
@@ -1768,8 +1768,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:12.675Z",
-      "durationMs": 205257,
+      "timestamp": "2026-09-11T20:54:13.721Z",
+      "durationMs": 201979,
       "status": "unchanged",
       "page": "automatic-investing-expanded-investments-and-solutions",
       "viewport": "mobile",
@@ -1779,8 +1779,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:13.482Z",
-      "durationMs": 206064,
+      "timestamp": "2026-09-11T20:54:14.520Z",
+      "durationMs": 202778,
       "status": "unchanged",
       "page": "automatic-investing-expanded-education-and-insights",
       "viewport": "mobile",
@@ -1790,8 +1790,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:14.303Z",
-      "durationMs": 206885,
+      "timestamp": "2026-09-11T20:54:15.338Z",
+      "durationMs": 203596,
       "status": "unchanged",
       "page": "automatic-investing-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -1801,8 +1801,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:16.182Z",
-      "durationMs": 208764,
+      "timestamp": "2026-09-11T20:54:17.264Z",
+      "durationMs": 205522,
       "status": "unchanged",
       "page": "automatic-investing-tab-victory-funds-accounts",
       "viewport": "mobile",
@@ -1812,8 +1812,8 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:33:16.967Z",
-      "durationMs": 209549,
+      "timestamp": "2026-09-11T20:54:18.055Z",
+      "durationMs": 206313,
       "status": "unchanged",
       "page": "automatic-investing-tab-529-plan-accounts",
       "viewport": "mobile",
@@ -1823,8 +1823,8 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:33:21.710Z",
-      "durationMs": 214292,
+      "timestamp": "2026-09-11T20:54:23.314Z",
+      "durationMs": 211572,
       "status": "unchanged",
       "page": "fp-homepage",
       "viewport": "desktop",
@@ -1833,8 +1833,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:21.960Z",
-      "durationMs": 214542,
+      "timestamp": "2026-09-11T20:54:23.361Z",
+      "durationMs": 211619,
       "status": "unchanged",
       "page": "fp-homepage",
       "viewport": "mobile",
@@ -1843,8 +1843,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:23.485Z",
-      "durationMs": 216067,
+      "timestamp": "2026-09-11T20:54:24.826Z",
+      "durationMs": 213084,
       "status": "unchanged",
       "page": "fp-homepage-expanded-products-and-strategies",
       "viewport": "mobile",
@@ -1854,8 +1854,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:24.017Z",
-      "durationMs": 216599,
+      "timestamp": "2026-09-11T20:54:25.514Z",
+      "durationMs": 213772,
       "status": "unchanged",
       "page": "fp-homepage-tab-go-to-campaign-1",
       "viewport": "desktop",
@@ -1865,8 +1865,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:24.262Z",
-      "durationMs": 216844,
+      "timestamp": "2026-09-11T20:54:25.596Z",
+      "durationMs": 213854,
       "status": "unchanged",
       "page": "fp-homepage-expanded-practice-management",
       "viewport": "mobile",
@@ -1876,8 +1876,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:24.846Z",
-      "durationMs": 217428,
+      "timestamp": "2026-09-11T20:54:26.353Z",
+      "durationMs": 214611,
       "status": "unchanged",
       "page": "fp-homepage-tab-go-to-campaign-2",
       "viewport": "desktop",
@@ -1887,8 +1887,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:25.050Z",
-      "durationMs": 217632,
+      "timestamp": "2026-09-11T20:54:26.404Z",
+      "durationMs": 214662,
       "status": "unchanged",
       "page": "fp-homepage-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -1898,8 +1898,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:25.675Z",
-      "durationMs": 218257,
+      "timestamp": "2026-09-11T20:54:27.176Z",
+      "durationMs": 215434,
       "status": "unchanged",
       "page": "fp-homepage-tab-go-to-campaign-3",
       "viewport": "desktop",
@@ -1909,8 +1909,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:26.551Z",
-      "durationMs": 219133,
+      "timestamp": "2026-09-11T20:54:27.876Z",
+      "durationMs": 216134,
       "status": "unchanged",
       "page": "fp-homepage-tab-go-to-campaign-1",
       "viewport": "mobile",
@@ -1920,19 +1920,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:27.240Z",
-      "durationMs": 219822,
-      "status": "unchanged",
-      "page": "fp-homepage-desktop-menu-products-and-strategies",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/fp-homepage-desktop-menu-products-and-strategies.png",
-      "changeStatus": "unchanged",
-      "stateType": "menu",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:33:27.372Z",
-      "durationMs": 219954,
+      "timestamp": "2026-09-11T20:54:28.709Z",
+      "durationMs": 216967,
       "status": "unchanged",
       "page": "fp-homepage-tab-go-to-campaign-2",
       "viewport": "mobile",
@@ -1942,8 +1931,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:28.166Z",
-      "durationMs": 220748,
+      "timestamp": "2026-09-11T20:54:28.723Z",
+      "durationMs": 216981,
+      "status": "unchanged",
+      "page": "fp-homepage-desktop-menu-products-and-strategies",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/fp-homepage-desktop-menu-products-and-strategies.png",
+      "changeStatus": "unchanged",
+      "stateType": "menu",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:54:29.527Z",
+      "durationMs": 217785,
       "status": "unchanged",
       "page": "fp-homepage-tab-go-to-campaign-3",
       "viewport": "mobile",
@@ -1953,8 +1953,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:28.274Z",
-      "durationMs": 220856,
+      "timestamp": "2026-09-11T20:54:29.754Z",
+      "durationMs": 218012,
       "status": "unchanged",
       "page": "fp-homepage-desktop-menu-resources-and-insights",
       "viewport": "desktop",
@@ -1964,8 +1964,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:29.295Z",
-      "durationMs": 221877,
+      "timestamp": "2026-09-11T20:54:30.791Z",
+      "durationMs": 219049,
       "status": "unchanged",
       "page": "fp-homepage-desktop-menu-practice-management",
       "viewport": "desktop",
@@ -1975,8 +1975,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:30.318Z",
-      "durationMs": 222900,
+      "timestamp": "2026-09-11T20:54:31.847Z",
+      "durationMs": 220105,
       "status": "unchanged",
       "page": "fp-homepage-desktop-menu-investment-franchises",
       "viewport": "desktop",
@@ -1986,8 +1986,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:31.340Z",
-      "durationMs": 223922,
+      "timestamp": "2026-09-11T20:54:32.877Z",
+      "durationMs": 221135,
       "status": "unchanged",
       "page": "fp-homepage-desktop-menu-about-victory-capital",
       "viewport": "desktop",
@@ -1997,8 +1997,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:34.263Z",
-      "durationMs": 226845,
+      "timestamp": "2026-09-11T20:54:35.577Z",
+      "durationMs": 223835,
       "status": "unchanged",
       "page": "about",
       "viewport": "desktop",
@@ -2007,8 +2007,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:36.374Z",
-      "durationMs": 228956,
+      "timestamp": "2026-09-11T20:54:37.672Z",
+      "durationMs": 225930,
       "status": "unchanged",
       "page": "about-expanded-view-transcript",
       "viewport": "desktop",
@@ -2018,8 +2018,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:40.317Z",
-      "durationMs": 232899,
+      "timestamp": "2026-09-11T20:54:41.439Z",
+      "durationMs": 229697,
       "status": "unchanged",
       "page": "franchise-detail",
       "viewport": "desktop",
@@ -2028,8 +2028,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:42.383Z",
-      "durationMs": 234965,
+      "timestamp": "2026-09-11T20:54:43.648Z",
+      "durationMs": 231906,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-investment-capability",
       "viewport": "desktop",
@@ -2039,8 +2039,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:43.451Z",
-      "durationMs": 236033,
+      "timestamp": "2026-09-11T20:54:44.671Z",
+      "durationMs": 232929,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-investment-vehicle",
       "viewport": "desktop",
@@ -2050,8 +2050,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:44.475Z",
-      "durationMs": 237057,
+      "timestamp": "2026-09-11T20:54:45.578Z",
+      "durationMs": 233836,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-asset-class",
       "viewport": "desktop",
@@ -2061,8 +2061,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:45.500Z",
-      "durationMs": 238082,
+      "timestamp": "2026-09-11T20:54:46.601Z",
+      "durationMs": 234859,
       "status": "unchanged",
       "page": "franchise-detail-expanded-rows-per-page",
       "viewport": "desktop",
@@ -2072,8 +2072,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:49.156Z",
-      "durationMs": 241738,
+      "timestamp": "2026-09-11T20:54:50.333Z",
+      "durationMs": 238591,
       "status": "unchanged",
       "page": "insights-hub",
       "viewport": "desktop",
@@ -2082,8 +2082,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:51.266Z",
-      "durationMs": 243848,
+      "timestamp": "2026-09-11T20:54:52.301Z",
+      "durationMs": 240559,
       "status": "unchanged",
       "page": "insights-hub-expanded-recommended",
       "viewport": "desktop",
@@ -2093,8 +2093,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:55.130Z",
-      "durationMs": 247712,
+      "timestamp": "2026-09-11T20:54:56.789Z",
+      "durationMs": 245047,
       "status": "unchanged",
       "page": "product-series",
       "viewport": "desktop",
@@ -2103,8 +2103,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:57.271Z",
-      "durationMs": 249853,
+      "timestamp": "2026-09-11T20:54:59.215Z",
+      "durationMs": 247473,
       "status": "unchanged",
       "page": "product-series-expanded-filter-by-asset-class",
       "viewport": "desktop",
@@ -2114,8 +2114,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:33:59.724Z",
-      "durationMs": 252306,
+      "timestamp": "2026-09-11T20:55:01.699Z",
+      "durationMs": 249957,
       "status": "captured",
       "page": "product-series-tab-go-to-slide-1-quality-that-pays-its-own-way",
       "viewport": "desktop",
@@ -2125,8 +2125,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:00.964Z",
-      "durationMs": 253546,
+      "timestamp": "2026-09-11T20:55:02.882Z",
+      "durationMs": 251140,
       "status": "captured",
       "page": "product-series-tab-go-to-slide-2-five-years-of-macro-conviction",
       "viewport": "desktop",
@@ -2136,8 +2136,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:01.777Z",
-      "durationMs": 254359,
+      "timestamp": "2026-09-11T20:55:03.013Z",
+      "durationMs": 251271,
       "status": "unchanged",
       "page": "fp-homepage-mobile-navigation-open",
       "viewport": "mobile",
@@ -2147,8 +2147,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:02.223Z",
-      "durationMs": 254805,
+      "timestamp": "2026-09-11T20:55:04.045Z",
+      "durationMs": 252303,
       "status": "captured",
       "page": "product-series-tab-go-to-slide-3-income-without-the-duration-risk",
       "viewport": "desktop",
@@ -2158,8 +2158,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:03.476Z",
-      "durationMs": 256058,
+      "timestamp": "2026-09-11T20:55:04.584Z",
+      "durationMs": 252842,
+      "status": "unchanged",
+      "page": "about",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/about.png",
+      "changeStatus": "unchanged",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:55:05.310Z",
+      "durationMs": 253568,
       "status": "captured",
       "page": "product-series-tab-go-to-slide-4-introducing-grin-global-free-cash-flow-income",
       "viewport": "desktop",
@@ -2169,18 +2179,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:03.697Z",
-      "durationMs": 256279,
-      "status": "unchanged",
-      "page": "about",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/about.png",
-      "changeStatus": "unchanged",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:34:04.732Z",
-      "durationMs": 257314,
+      "timestamp": "2026-09-11T20:55:06.469Z",
+      "durationMs": 254727,
       "status": "captured",
       "page": "product-series-tab-go-to-slide-5-rotate-with-the-macro-regime",
       "viewport": "desktop",
@@ -2190,8 +2190,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:05.693Z",
-      "durationMs": 258275,
+      "timestamp": "2026-09-11T20:55:06.952Z",
+      "durationMs": 255210,
       "status": "unchanged",
       "page": "about-expanded-view-transcript",
       "viewport": "mobile",
@@ -2201,8 +2201,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:06.646Z",
-      "durationMs": 259228,
+      "timestamp": "2026-09-11T20:55:07.881Z",
+      "durationMs": 256139,
       "status": "unchanged",
       "page": "about-expanded-resources-and-insights",
       "viewport": "mobile",
@@ -2212,8 +2212,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:07.627Z",
-      "durationMs": 260209,
+      "timestamp": "2026-09-11T20:55:08.804Z",
+      "durationMs": 257062,
       "status": "unchanged",
       "page": "about-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -2223,8 +2223,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:08.200Z",
-      "durationMs": 260782,
+      "timestamp": "2026-09-11T20:55:09.867Z",
+      "durationMs": 258125,
       "status": "unchanged",
       "page": "etf-picker",
       "viewport": "desktop",
@@ -2233,8 +2233,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:10.308Z",
-      "durationMs": 262890,
+      "timestamp": "2026-09-11T20:55:11.985Z",
+      "durationMs": 260243,
       "status": "unchanged",
       "page": "etf-picker-expanded-what-is-asset-class",
       "viewport": "desktop",
@@ -2244,8 +2244,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:11.078Z",
-      "durationMs": 263660,
+      "timestamp": "2026-09-11T20:55:12.480Z",
+      "durationMs": 260738,
       "status": "unchanged",
       "page": "franchise-detail",
       "viewport": "mobile",
@@ -2254,8 +2254,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:11.314Z",
-      "durationMs": 263896,
+      "timestamp": "2026-09-11T20:55:12.920Z",
+      "durationMs": 261178,
       "status": "unchanged",
       "page": "etf-picker-expanded-what-is-region",
       "viewport": "desktop",
@@ -2265,8 +2265,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:12.304Z",
-      "durationMs": 264886,
+      "timestamp": "2026-09-11T20:55:13.845Z",
+      "durationMs": 262103,
       "status": "unchanged",
       "page": "etf-picker-expanded-what-is-investment-style",
       "viewport": "desktop",
@@ -2276,8 +2276,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:13.036Z",
-      "durationMs": 265618,
+      "timestamp": "2026-09-11T20:55:14.522Z",
+      "durationMs": 262780,
       "status": "unchanged",
       "page": "franchise-detail-expanded-on-this-page",
       "viewport": "mobile",
@@ -2287,8 +2287,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:13.265Z",
-      "durationMs": 265847,
+      "timestamp": "2026-09-11T20:55:14.909Z",
+      "durationMs": 263167,
       "status": "unchanged",
       "page": "etf-picker-expanded-what-is-solution-type",
       "viewport": "desktop",
@@ -2298,8 +2298,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:13.850Z",
-      "durationMs": 266432,
+      "timestamp": "2026-09-11T20:55:15.344Z",
+      "durationMs": 263602,
       "status": "unchanged",
       "page": "franchise-detail-expanded-u-s-equity",
       "viewport": "mobile",
@@ -2309,8 +2309,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:14.351Z",
-      "durationMs": 266933,
+      "timestamp": "2026-09-11T20:55:15.954Z",
+      "durationMs": 264212,
       "status": "unchanged",
       "page": "etf-picker-expanded-what-is-share-class",
       "viewport": "desktop",
@@ -2320,8 +2320,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:14.762Z",
-      "durationMs": 267344,
+      "timestamp": "2026-09-11T20:55:16.162Z",
+      "durationMs": 264420,
       "status": "unchanged",
       "page": "franchise-detail-expanded-fixed-income",
       "viewport": "mobile",
@@ -2331,8 +2331,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:15.298Z",
-      "durationMs": 267880,
+      "timestamp": "2026-09-11T20:55:16.892Z",
+      "durationMs": 265150,
       "status": "unchanged",
       "page": "etf-picker-expanded-what-is-30-day-yield",
       "viewport": "desktop",
@@ -2342,8 +2342,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:15.596Z",
-      "durationMs": 268178,
+      "timestamp": "2026-09-11T20:55:16.995Z",
+      "durationMs": 265253,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-investment-capability",
       "viewport": "mobile",
@@ -2353,8 +2353,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:16.257Z",
-      "durationMs": 268839,
+      "timestamp": "2026-09-11T20:55:17.891Z",
+      "durationMs": 266149,
       "status": "unchanged",
       "page": "etf-picker-expanded-what-is-risk",
       "viewport": "desktop",
@@ -2364,8 +2364,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:16.449Z",
-      "durationMs": 269031,
+      "timestamp": "2026-09-11T20:55:17.893Z",
+      "durationMs": 266151,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-investment-vehicle",
       "viewport": "mobile",
@@ -2375,8 +2375,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:17.305Z",
-      "durationMs": 269887,
+      "timestamp": "2026-09-11T20:55:18.713Z",
+      "durationMs": 266971,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-asset-class",
       "viewport": "mobile",
@@ -2386,8 +2386,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:18.162Z",
-      "durationMs": 270744,
+      "timestamp": "2026-09-11T20:55:19.566Z",
+      "durationMs": 267824,
       "status": "unchanged",
       "page": "franchise-detail-expanded-sort-products-and-strategies-by-field",
       "viewport": "mobile",
@@ -2397,8 +2397,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:18.427Z",
-      "durationMs": 271009,
+      "timestamp": "2026-09-11T20:55:20.054Z",
+      "durationMs": 268312,
       "status": "unchanged",
       "page": "etf-picker-tab-performance",
       "viewport": "desktop",
@@ -2408,8 +2408,8 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:34:18.997Z",
-      "durationMs": 271579,
+      "timestamp": "2026-09-11T20:55:20.386Z",
+      "durationMs": 268644,
       "status": "unchanged",
       "page": "franchise-detail-expanded-rows-per-page",
       "viewport": "mobile",
@@ -2419,19 +2419,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:19.564Z",
-      "durationMs": 272146,
-      "status": "unchanged",
-      "page": "etf-picker-tab-morningstar-rating",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/etf-picker-tab-morningstar-rating.png",
-      "changeStatus": "unchanged",
-      "stateType": "tab",
-      "captureScope": "element"
-    },
-    {
-      "timestamp": "2026-09-10T18:34:19.832Z",
-      "durationMs": 272414,
+      "timestamp": "2026-09-11T20:55:21.203Z",
+      "durationMs": 269461,
       "status": "unchanged",
       "page": "franchise-detail-expanded-products-and-strategies",
       "viewport": "mobile",
@@ -2441,8 +2430,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:20.655Z",
-      "durationMs": 273237,
+      "timestamp": "2026-09-11T20:55:21.245Z",
+      "durationMs": 269503,
+      "status": "unchanged",
+      "page": "etf-picker-tab-morningstar-rating",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/etf-picker-tab-morningstar-rating.png",
+      "changeStatus": "unchanged",
+      "stateType": "tab",
+      "captureScope": "element"
+    },
+    {
+      "timestamp": "2026-09-11T20:55:22.039Z",
+      "durationMs": 270297,
       "status": "unchanged",
       "page": "franchise-detail-expanded-practice-management",
       "viewport": "mobile",
@@ -2452,8 +2452,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:20.732Z",
-      "durationMs": 273314,
+      "timestamp": "2026-09-11T20:55:22.307Z",
+      "durationMs": 270565,
       "status": "unchanged",
       "page": "etf-picker-tab-literature",
       "viewport": "desktop",
@@ -2463,8 +2463,8 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:34:21.463Z",
-      "durationMs": 274045,
+      "timestamp": "2026-09-11T20:55:22.843Z",
+      "durationMs": 271101,
       "status": "unchanged",
       "page": "franchise-detail-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -2474,18 +2474,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:24.166Z",
-      "durationMs": 276748,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:55:26.198Z",
+      "durationMs": 274456,
+      "status": "captured",
       "page": "vflo",
       "viewport": "desktop",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:25.405Z",
-      "durationMs": 277987,
+      "timestamp": "2026-09-11T20:55:26.568Z",
+      "durationMs": 274826,
       "status": "unchanged",
       "page": "insights-hub",
       "viewport": "mobile",
@@ -2494,19 +2494,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:26.524Z",
-      "durationMs": 279106,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:55:28.543Z",
+      "durationMs": 276801,
+      "status": "captured",
       "page": "vflo-expanded-what-is-overall-morningstar-rating",
       "viewport": "desktop",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-overall-morningstar-rating.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:27.371Z",
-      "durationMs": 279953,
+      "timestamp": "2026-09-11T20:55:28.605Z",
+      "durationMs": 276863,
       "status": "unchanged",
       "page": "insights-hub-expanded-subscribe-to-updates",
       "viewport": "mobile",
@@ -2516,19 +2516,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:27.626Z",
-      "durationMs": 280208,
-      "status": "unchanged",
-      "page": "vflo-expanded-what-is-premium-discount",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-premium-discount.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:34:28.188Z",
-      "durationMs": 280770,
+      "timestamp": "2026-09-11T20:55:29.580Z",
+      "durationMs": 277838,
       "status": "unchanged",
       "page": "insights-hub-expanded-recommended",
       "viewport": "mobile",
@@ -2538,19 +2527,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:28.710Z",
-      "durationMs": 281292,
-      "status": "unchanged",
-      "page": "vflo-expanded-what-is-30-day-median-bid-ask-spread",
+      "timestamp": "2026-09-11T20:55:29.936Z",
+      "durationMs": 278194,
+      "status": "captured",
+      "page": "vflo-expanded-what-is-premium-discount",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-30-day-median-bid-ask-spread.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-premium-discount.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:29.096Z",
-      "durationMs": 281678,
+      "timestamp": "2026-09-11T20:55:30.762Z",
+      "durationMs": 279020,
       "status": "unchanged",
       "page": "insights-hub-expanded-products-and-strategies",
       "viewport": "mobile",
@@ -2560,19 +2549,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:29.761Z",
-      "durationMs": 282343,
-      "status": "unchanged",
-      "page": "vflo-expanded-what-is-30-day-sec-yield-subsidized",
+      "timestamp": "2026-09-11T20:55:31.343Z",
+      "durationMs": 279601,
+      "status": "captured",
+      "page": "vflo-expanded-what-is-30-day-median-bid-ask-spread",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-30-day-sec-yield-subsidized.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-30-day-median-bid-ask-spread.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:29.880Z",
-      "durationMs": 282462,
+      "timestamp": "2026-09-11T20:55:31.726Z",
+      "durationMs": 279984,
       "status": "unchanged",
       "page": "insights-hub-expanded-practice-management",
       "viewport": "mobile",
@@ -2582,8 +2571,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:30.854Z",
-      "durationMs": 283436,
+      "timestamp": "2026-09-11T20:55:32.717Z",
+      "durationMs": 280975,
+      "status": "captured",
+      "page": "vflo-expanded-what-is-30-day-sec-yield-subsidized",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-30-day-sec-yield-subsidized.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:55:32.782Z",
+      "durationMs": 281040,
       "status": "unchanged",
       "page": "insights-hub-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -2593,52 +2593,41 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:30.857Z",
-      "durationMs": 283439,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:55:34.084Z",
+      "durationMs": 282342,
+      "status": "captured",
       "page": "vflo-expanded-what-is-30-day-sec-yield-unsubsidized",
       "viewport": "desktop",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-30-day-sec-yield-unsubsidized.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:31.989Z",
-      "durationMs": 284571,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:55:35.460Z",
+      "durationMs": 283718,
+      "status": "captured",
       "page": "vflo-expanded-what-is-dividend-yield",
       "viewport": "desktop",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-dividend-yield.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:33.039Z",
-      "durationMs": 285621,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:55:36.832Z",
+      "durationMs": 285090,
+      "status": "captured",
       "page": "vflo-expanded-what-is-net-expense-ratio",
       "viewport": "desktop",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-net-expense-ratio.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:34.070Z",
-      "durationMs": 286652,
-      "status": "unchanged",
-      "page": "vflo-expanded-what-is-gross-expense-ratio",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-gross-expense-ratio.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:34:34.561Z",
-      "durationMs": 287143,
+      "timestamp": "2026-09-11T20:55:37.284Z",
+      "durationMs": 285542,
       "status": "unchanged",
       "page": "product-series",
       "viewport": "mobile",
@@ -2647,30 +2636,30 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:35.197Z",
-      "durationMs": 287779,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:55:38.232Z",
+      "durationMs": 286490,
+      "status": "captured",
+      "page": "vflo-expanded-what-is-gross-expense-ratio",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-gross-expense-ratio.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:55:39.633Z",
+      "durationMs": 287891,
+      "status": "captured",
       "page": "vflo-expanded-what-is-alpha",
       "viewport": "desktop",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-alpha.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:36.248Z",
-      "durationMs": 288830,
-      "status": "unchanged",
-      "page": "vflo-expanded-what-is-beta",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-beta.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:34:36.755Z",
-      "durationMs": 289337,
+      "timestamp": "2026-09-11T20:55:40.083Z",
+      "durationMs": 288341,
       "status": "unchanged",
       "page": "product-series-expanded-filter-by-asset-class",
       "viewport": "mobile",
@@ -2680,19 +2669,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:37.340Z",
-      "durationMs": 289922,
-      "status": "unchanged",
-      "page": "vflo-expanded-what-is-r-squared",
+      "timestamp": "2026-09-11T20:55:41.132Z",
+      "durationMs": 289390,
+      "status": "captured",
+      "page": "vflo-expanded-what-is-beta",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-r-squared.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-beta.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:37.766Z",
-      "durationMs": 290348,
+      "timestamp": "2026-09-11T20:55:41.260Z",
+      "durationMs": 289518,
       "status": "unchanged",
       "page": "product-series-expanded-products-and-strategies",
       "viewport": "mobile",
@@ -2702,19 +2691,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:38.392Z",
-      "durationMs": 290974,
-      "status": "unchanged",
-      "page": "vflo-expanded-what-is-standard-deviation",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-standard-deviation.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:34:38.622Z",
-      "durationMs": 291204,
+      "timestamp": "2026-09-11T20:55:42.113Z",
+      "durationMs": 290371,
       "status": "unchanged",
       "page": "product-series-expanded-practice-management",
       "viewport": "mobile",
@@ -2724,19 +2702,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:39.465Z",
-      "durationMs": 292047,
-      "status": "unchanged",
-      "page": "vflo-expanded-what-is-sharpe-ratio",
+      "timestamp": "2026-09-11T20:55:42.663Z",
+      "durationMs": 290921,
+      "status": "captured",
+      "page": "vflo-expanded-what-is-r-squared",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-sharpe-ratio.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-r-squared.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:39.590Z",
-      "durationMs": 292172,
+      "timestamp": "2026-09-11T20:55:43.115Z",
+      "durationMs": 291373,
       "status": "unchanged",
       "page": "product-series-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -2746,8 +2724,30 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:41.973Z",
-      "durationMs": 294555,
+      "timestamp": "2026-09-11T20:55:44.143Z",
+      "durationMs": 292401,
+      "status": "captured",
+      "page": "vflo-expanded-what-is-standard-deviation",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-standard-deviation.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:55:45.550Z",
+      "durationMs": 293808,
+      "status": "captured",
+      "page": "vflo-expanded-what-is-sharpe-ratio",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-sharpe-ratio.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:55:47.008Z",
+      "durationMs": 295266,
       "status": "captured",
       "page": "vflo-expanded-what-is-information-ratio",
       "viewport": "desktop",
@@ -2757,139 +2757,95 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:43.036Z",
-      "durationMs": 295618,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:55:48.362Z",
+      "durationMs": 296620,
+      "status": "captured",
       "page": "vflo-expanded-what-is-top-10-holdings",
       "viewport": "desktop",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-top-10-holdings.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:44.114Z",
-      "durationMs": 296696,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:55:49.732Z",
+      "durationMs": 297990,
+      "status": "captured",
       "page": "vflo-expanded-what-is-bottom-10-holdings",
       "viewport": "desktop",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-bottom-10-holdings.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:45.207Z",
-      "durationMs": 297789,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:55:51.092Z",
+      "durationMs": 299350,
+      "status": "captured",
       "page": "vflo-expanded-what-is-characteristics",
       "viewport": "desktop",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-characteristics.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:46.256Z",
-      "durationMs": 298838,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:55:52.467Z",
+      "durationMs": 300725,
+      "status": "captured",
       "page": "vflo-expanded-what-is-sector-diversification",
       "viewport": "desktop",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/vflo-expanded-what-is-sector-diversification.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:50.864Z",
-      "durationMs": 303446,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:55:57.167Z",
+      "durationMs": 305425,
+      "status": "captured",
       "page": "glow",
       "viewport": "desktop",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:53.059Z",
-      "durationMs": 305641,
+      "timestamp": "2026-09-11T20:55:58.144Z",
+      "durationMs": 306402,
       "status": "unchanged",
-      "page": "glow-expanded-what-is-overall-morningstar-rating",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-overall-morningstar-rating.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:34:53.632Z",
-      "durationMs": 306214,
-      "status": "unchanged",
-      "page": "product-series-tab-go-to-slide-4-introducing-grin-global-free-cash-flow-income",
+      "page": "product-series-tab-go-to-slide-5-rotate-with-the-macro-regime",
       "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/product-series-tab-go-to-slide-4-introducing-grin-global-free-cash-flow-income.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/product-series-tab-go-to-slide-5-rotate-with-the-macro-regime.png",
       "changeStatus": "unchanged",
       "stateType": "tab",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:54.232Z",
-      "durationMs": 306814,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:55:59.671Z",
+      "durationMs": 307929,
+      "status": "captured",
+      "page": "glow-expanded-what-is-overall-morningstar-rating",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-overall-morningstar-rating.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:00.961Z",
+      "durationMs": 309219,
+      "status": "captured",
       "page": "glow-expanded-what-is-premium-discount",
       "viewport": "desktop",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-premium-discount.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:55.234Z",
-      "durationMs": 307816,
-      "status": "unchanged",
-      "page": "glow-expanded-what-is-30-day-median-bid-ask-spread",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-30-day-median-bid-ask-spread.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:34:56.260Z",
-      "durationMs": 308842,
-      "status": "unchanged",
-      "page": "glow-expanded-what-is-30-day-sec-yield-subsidized",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-30-day-sec-yield-subsidized.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:34:57.260Z",
-      "durationMs": 309842,
-      "status": "unchanged",
-      "page": "glow-expanded-what-is-30-day-sec-yield-unsubsidized",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-30-day-sec-yield-unsubsidized.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:34:58.272Z",
-      "durationMs": 310854,
-      "status": "unchanged",
-      "page": "glow-expanded-what-is-dividend-yield",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-dividend-yield.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:34:59.380Z",
-      "durationMs": 311962,
+      "timestamp": "2026-09-11T20:56:01.387Z",
+      "durationMs": 309645,
       "status": "unchanged",
       "page": "etf-picker",
       "viewport": "mobile",
@@ -2898,30 +2854,30 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:34:59.384Z",
-      "durationMs": 311966,
-      "status": "unchanged",
-      "page": "glow-expanded-what-is-net-expense-ratio",
+      "timestamp": "2026-09-11T20:56:02.278Z",
+      "durationMs": 310536,
+      "status": "captured",
+      "page": "glow-expanded-what-is-30-day-median-bid-ask-spread",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-net-expense-ratio.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-30-day-median-bid-ask-spread.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:00.431Z",
-      "durationMs": 313013,
-      "status": "unchanged",
-      "page": "glow-expanded-what-is-gross-expense-ratio",
+      "timestamp": "2026-09-11T20:56:03.561Z",
+      "durationMs": 311819,
+      "status": "captured",
+      "page": "glow-expanded-what-is-30-day-sec-yield-subsidized",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-gross-expense-ratio.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-30-day-sec-yield-subsidized.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:01.522Z",
-      "durationMs": 314104,
+      "timestamp": "2026-09-11T20:56:03.979Z",
+      "durationMs": 312237,
       "status": "unchanged",
       "page": "etf-picker-expanded-what-is-asset-class",
       "viewport": "mobile",
@@ -2931,19 +2887,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:01.525Z",
-      "durationMs": 314108,
-      "status": "unchanged",
-      "page": "glow-expanded-what-is-top-10-holdings",
+      "timestamp": "2026-09-11T20:56:04.868Z",
+      "durationMs": 313126,
+      "status": "captured",
+      "page": "glow-expanded-what-is-30-day-sec-yield-unsubsidized",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-top-10-holdings.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-30-day-sec-yield-unsubsidized.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:02.355Z",
-      "durationMs": 314937,
+      "timestamp": "2026-09-11T20:56:04.935Z",
+      "durationMs": 313193,
       "status": "unchanged",
       "page": "etf-picker-expanded-what-is-region",
       "viewport": "mobile",
@@ -2953,19 +2909,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:02.549Z",
-      "durationMs": 315131,
-      "status": "unchanged",
-      "page": "glow-expanded-what-is-characteristics",
+      "timestamp": "2026-09-11T20:56:06.197Z",
+      "durationMs": 314455,
+      "status": "captured",
+      "page": "glow-expanded-what-is-dividend-yield",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-characteristics.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-dividend-yield.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:03.403Z",
-      "durationMs": 315985,
+      "timestamp": "2026-09-11T20:56:06.240Z",
+      "durationMs": 314498,
       "status": "unchanged",
       "page": "etf-picker-expanded-what-is-investment-style",
       "viewport": "mobile",
@@ -2975,19 +2931,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:03.533Z",
-      "durationMs": 316115,
-      "status": "unchanged",
-      "page": "glow-expanded-what-is-sector-diversification",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-sector-diversification.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:35:04.414Z",
-      "durationMs": 316996,
+      "timestamp": "2026-09-11T20:56:07.064Z",
+      "durationMs": 315322,
       "status": "unchanged",
       "page": "etf-picker-expanded-what-is-solution-type",
       "viewport": "mobile",
@@ -2997,19 +2942,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:04.558Z",
-      "durationMs": 317140,
-      "status": "unchanged",
-      "page": "glow-expanded-show-all-countries-19",
+      "timestamp": "2026-09-11T20:56:07.551Z",
+      "durationMs": 315809,
+      "status": "captured",
+      "page": "glow-expanded-what-is-net-expense-ratio",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-show-all-countries-19.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-net-expense-ratio.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:05.367Z",
-      "durationMs": 317949,
+      "timestamp": "2026-09-11T20:56:08.403Z",
+      "durationMs": 316661,
       "status": "unchanged",
       "page": "etf-picker-expanded-what-is-share-class",
       "viewport": "mobile",
@@ -3019,29 +2964,63 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:09.088Z",
-      "durationMs": 321670,
-      "status": "unchanged",
-      "page": "ustb",
+      "timestamp": "2026-09-11T20:56:08.868Z",
+      "durationMs": 317126,
+      "status": "captured",
+      "page": "glow-expanded-what-is-gross-expense-ratio",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb.png",
-      "changeStatus": "unchanged",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:35:11.236Z",
-      "durationMs": 323818,
-      "status": "unchanged",
-      "page": "ustb-expanded-what-is-overall-morningstar-rating",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-overall-morningstar-rating.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-gross-expense-ratio.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:11.306Z",
-      "durationMs": 323888,
+      "timestamp": "2026-09-11T20:56:10.201Z",
+      "durationMs": 318459,
+      "status": "captured",
+      "page": "glow-expanded-what-is-top-10-holdings",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-top-10-holdings.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:11.497Z",
+      "durationMs": 319755,
+      "status": "captured",
+      "page": "glow-expanded-what-is-characteristics",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-characteristics.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:12.808Z",
+      "durationMs": 321066,
+      "status": "captured",
+      "page": "glow-expanded-what-is-sector-diversification",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-what-is-sector-diversification.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:14.135Z",
+      "durationMs": 322393,
+      "status": "captured",
+      "page": "glow-expanded-show-all-countries-19",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/glow-expanded-show-all-countries-19.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:14.950Z",
+      "durationMs": 323208,
       "status": "unchanged",
       "page": "etf-picker-expanded-products-and-strategies",
       "viewport": "mobile",
@@ -3051,8 +3030,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:12.296Z",
-      "durationMs": 324878,
+      "timestamp": "2026-09-11T20:56:15.771Z",
+      "durationMs": 324029,
       "status": "unchanged",
       "page": "etf-picker-expanded-resources-and-insights",
       "viewport": "mobile",
@@ -3062,19 +3041,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:12.299Z",
-      "durationMs": 324881,
-      "status": "unchanged",
-      "page": "ustb-expanded-what-is-premium-discount",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-premium-discount.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:35:13.117Z",
-      "durationMs": 325699,
+      "timestamp": "2026-09-11T20:56:16.579Z",
+      "durationMs": 324837,
       "status": "unchanged",
       "page": "etf-picker-expanded-practice-management",
       "viewport": "mobile",
@@ -3084,19 +3052,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:13.333Z",
-      "durationMs": 325915,
-      "status": "unchanged",
-      "page": "ustb-expanded-what-is-30-day-median-bid-ask-spread",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-30-day-median-bid-ask-spread.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:35:13.943Z",
-      "durationMs": 326525,
+      "timestamp": "2026-09-11T20:56:17.401Z",
+      "durationMs": 325659,
       "status": "unchanged",
       "page": "etf-picker-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -3106,30 +3063,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:14.384Z",
-      "durationMs": 326966,
-      "status": "unchanged",
-      "page": "ustb-expanded-what-is-30-day-sec-yield-subsidized",
+      "timestamp": "2026-09-11T20:56:18.837Z",
+      "durationMs": 327095,
+      "status": "captured",
+      "page": "ustb",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-30-day-sec-yield-subsidized.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb.png",
+      "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:15.402Z",
-      "durationMs": 327984,
-      "status": "unchanged",
-      "page": "ustb-expanded-what-is-30-day-sec-yield-unsubsidized",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-30-day-sec-yield-unsubsidized.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:35:15.967Z",
-      "durationMs": 328549,
+      "timestamp": "2026-09-11T20:56:19.680Z",
+      "durationMs": 327938,
       "status": "unchanged",
       "page": "etf-picker-tab-performance",
       "viewport": "mobile",
@@ -3139,19 +3084,8 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:35:16.404Z",
-      "durationMs": 328986,
-      "status": "unchanged",
-      "page": "ustb-expanded-what-is-dividend-yield",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-dividend-yield.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:35:16.925Z",
-      "durationMs": 329507,
+      "timestamp": "2026-09-11T20:56:20.665Z",
+      "durationMs": 328923,
       "status": "unchanged",
       "page": "etf-picker-tab-morningstar-rating",
       "viewport": "mobile",
@@ -3161,19 +3095,30 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:35:17.419Z",
-      "durationMs": 330001,
-      "status": "unchanged",
-      "page": "ustb-expanded-what-is-net-expense-ratio",
+      "timestamp": "2026-09-11T20:56:21.180Z",
+      "durationMs": 329438,
+      "status": "captured",
+      "page": "ustb-expanded-what-is-overall-morningstar-rating",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-net-expense-ratio.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-overall-morningstar-rating.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:17.850Z",
-      "durationMs": 330432,
+      "timestamp": "2026-09-11T20:56:22.479Z",
+      "durationMs": 330737,
+      "status": "captured",
+      "page": "ustb-expanded-what-is-premium-discount",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-premium-discount.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:22.484Z",
+      "durationMs": 330742,
       "status": "unchanged",
       "page": "etf-picker-tab-literature",
       "viewport": "mobile",
@@ -3183,106 +3128,139 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:35:18.419Z",
-      "durationMs": 331001,
-      "status": "unchanged",
-      "page": "ustb-expanded-what-is-gross-expense-ratio",
+      "timestamp": "2026-09-11T20:56:23.763Z",
+      "durationMs": 332021,
+      "status": "captured",
+      "page": "ustb-expanded-what-is-30-day-median-bid-ask-spread",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-gross-expense-ratio.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-30-day-median-bid-ask-spread.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:19.429Z",
-      "durationMs": 332011,
-      "status": "unchanged",
-      "page": "ustb-expanded-what-is-top-10-holdings",
+      "timestamp": "2026-09-11T20:56:25.055Z",
+      "durationMs": 333313,
+      "status": "captured",
+      "page": "ustb-expanded-what-is-30-day-sec-yield-subsidized",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-top-10-holdings.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-30-day-sec-yield-subsidized.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:20.289Z",
-      "durationMs": 332871,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:56:25.608Z",
+      "durationMs": 333866,
+      "status": "captured",
       "page": "vflo",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:20.432Z",
-      "durationMs": 333014,
-      "status": "unchanged",
-      "page": "ustb-expanded-what-is-bottom-10-holdings",
+      "timestamp": "2026-09-11T20:56:26.338Z",
+      "durationMs": 334596,
+      "status": "captured",
+      "page": "ustb-expanded-what-is-30-day-sec-yield-unsubsidized",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-bottom-10-holdings.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-30-day-sec-yield-unsubsidized.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:21.451Z",
-      "durationMs": 334033,
-      "status": "unchanged",
-      "page": "ustb-expanded-what-is-characteristics",
+      "timestamp": "2026-09-11T20:56:27.629Z",
+      "durationMs": 335887,
+      "status": "captured",
+      "page": "ustb-expanded-what-is-dividend-yield",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-characteristics.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-dividend-yield.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:22.321Z",
-      "durationMs": 334903,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:56:27.980Z",
+      "durationMs": 336238,
+      "status": "captured",
       "page": "vflo-expanded-what-is-overall-morningstar-rating",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-what-is-overall-morningstar-rating.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:22.460Z",
-      "durationMs": 335042,
-      "status": "unchanged",
-      "page": "ustb-expanded-what-is-sector-diversification",
+      "timestamp": "2026-09-11T20:56:28.963Z",
+      "durationMs": 337221,
+      "status": "captured",
+      "page": "ustb-expanded-what-is-net-expense-ratio",
       "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-sector-diversification.png",
-      "changeStatus": "unchanged",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-net-expense-ratio.png",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:23.256Z",
-      "durationMs": 335838,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:56:28.994Z",
+      "durationMs": 337252,
+      "status": "captured",
       "page": "vflo-expanded-what-is-premium-discount",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-what-is-premium-discount.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:23.996Z",
-      "durationMs": 336578,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:56:29.812Z",
+      "durationMs": 338070,
+      "status": "captured",
+      "page": "vflo-expanded-what-is-30-day-median-bid-ask-spread",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-what-is-30-day-median-bid-ask-spread.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:30.264Z",
+      "durationMs": 338522,
+      "status": "captured",
+      "page": "ustb-expanded-what-is-gross-expense-ratio",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-gross-expense-ratio.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:31.023Z",
+      "durationMs": 339281,
+      "status": "captured",
       "page": "vflo-expanded-what-is-bid-ask-midpoint",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-what-is-bid-ask-midpoint.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:24.742Z",
-      "durationMs": 337324,
+      "timestamp": "2026-09-11T20:56:31.591Z",
+      "durationMs": 339849,
+      "status": "captured",
+      "page": "ustb-expanded-what-is-top-10-holdings",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-top-10-holdings.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:31.926Z",
+      "durationMs": 340184,
       "status": "unchanged",
       "page": "vflo-expanded-what-is-30-day-median-bid-ask-spread",
       "viewport": "mobile",
@@ -3292,30 +3270,107 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:25.526Z",
-      "durationMs": 338108,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:56:32.896Z",
+      "durationMs": 341154,
+      "status": "captured",
+      "page": "ustb-expanded-what-is-bottom-10-holdings",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-bottom-10-holdings.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:32.925Z",
+      "durationMs": 341183,
+      "status": "captured",
       "page": "vflo-expanded-what-is-30-day-sec-yield-subsidized",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-what-is-30-day-sec-yield-subsidized.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:26.283Z",
-      "durationMs": 338865,
-      "status": "unchanged",
+      "timestamp": "2026-09-11T20:56:33.684Z",
+      "durationMs": 341942,
+      "status": "captured",
       "page": "vflo-expanded-what-is-30-day-sec-yield-unsubsidized",
       "viewport": "mobile",
       "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-what-is-30-day-sec-yield-unsubsidized.png",
-      "changeStatus": "unchanged",
+      "changeStatus": "changed",
       "stateType": "accordion",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:26.650Z",
-      "durationMs": 339232,
+      "timestamp": "2026-09-11T20:56:34.206Z",
+      "durationMs": 342464,
+      "status": "captured",
+      "page": "ustb-expanded-what-is-characteristics",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-characteristics.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:34.542Z",
+      "durationMs": 342800,
+      "status": "captured",
+      "page": "vflo-expanded-what-is-dividend-yield",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-what-is-dividend-yield.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:35.500Z",
+      "durationMs": 343758,
+      "status": "captured",
+      "page": "ustb-expanded-what-is-sector-diversification",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/desktop/ustb-expanded-what-is-sector-diversification.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:35.520Z",
+      "durationMs": 343778,
+      "status": "captured",
+      "page": "vflo-expanded-what-is-net-expense-ratio",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-what-is-net-expense-ratio.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:36.304Z",
+      "durationMs": 344562,
+      "status": "captured",
+      "page": "vflo-expanded-what-is-gross-expense-ratio",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-what-is-gross-expense-ratio.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:37.095Z",
+      "durationMs": 345353,
+      "status": "captured",
+      "page": "vflo-expanded-growth-chart-time-period",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-growth-chart-time-period.png",
+      "changeStatus": "changed",
+      "stateType": "accordion",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:56:40.031Z",
+      "durationMs": 348289,
       "status": "unchanged",
       "page": "practice-management",
       "viewport": "desktop",
@@ -3324,52 +3379,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:35:27.044Z",
-      "durationMs": 339626,
-      "status": "unchanged",
-      "page": "vflo-expanded-what-is-dividend-yield",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-what-is-dividend-yield.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:35:27.794Z",
-      "durationMs": 340376,
-      "status": "unchanged",
-      "page": "vflo-expanded-what-is-net-expense-ratio",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-what-is-net-expense-ratio.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:35:28.557Z",
-      "durationMs": 341139,
-      "status": "unchanged",
-      "page": "vflo-expanded-what-is-gross-expense-ratio",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-what-is-gross-expense-ratio.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:35:29.356Z",
-      "durationMs": 341938,
-      "status": "unchanged",
-      "page": "vflo-expanded-growth-chart-time-period",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/fp/mobile/vflo-expanded-growth-chart-time-period.png",
-      "changeStatus": "unchanged",
-      "stateType": "accordion",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:36:05.893Z",
-      "durationMs": 378475,
+      "timestamp": "2026-09-11T20:57:13.428Z",
+      "durationMs": 381686,
       "status": "unchanged",
       "page": "glow",
       "viewport": "mobile",
@@ -3378,8 +3389,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:07.674Z",
-      "durationMs": 380256,
+      "timestamp": "2026-09-11T20:57:15.310Z",
+      "durationMs": 383568,
       "status": "unchanged",
       "page": "glow-expanded-what-is-overall-morningstar-rating",
       "viewport": "mobile",
@@ -3389,8 +3400,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:08.439Z",
-      "durationMs": 381021,
+      "timestamp": "2026-09-11T20:57:16.087Z",
+      "durationMs": 384345,
       "status": "captured",
       "page": "glow-expanded-what-is-premium-discount",
       "viewport": "mobile",
@@ -3400,8 +3411,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:09.228Z",
-      "durationMs": 381810,
+      "timestamp": "2026-09-11T20:57:16.901Z",
+      "durationMs": 385159,
       "status": "unchanged",
       "page": "glow-expanded-what-is-30-day-median-bid-ask-spread",
       "viewport": "mobile",
@@ -3411,8 +3422,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:10.006Z",
-      "durationMs": 382588,
+      "timestamp": "2026-09-11T20:57:17.676Z",
+      "durationMs": 385934,
       "status": "captured",
       "page": "glow-expanded-what-is-premium-discount",
       "viewport": "mobile",
@@ -3422,8 +3433,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:10.788Z",
-      "durationMs": 383370,
+      "timestamp": "2026-09-11T20:57:18.454Z",
+      "durationMs": 386712,
       "status": "unchanged",
       "page": "glow-expanded-what-is-30-day-sec-yield-subsidized",
       "viewport": "mobile",
@@ -3433,8 +3444,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:11.552Z",
-      "durationMs": 384134,
+      "timestamp": "2026-09-11T20:57:19.229Z",
+      "durationMs": 387487,
       "status": "unchanged",
       "page": "glow-expanded-what-is-30-day-sec-yield-unsubsidized",
       "viewport": "mobile",
@@ -3444,8 +3455,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:12.325Z",
-      "durationMs": 384907,
+      "timestamp": "2026-09-11T20:57:19.990Z",
+      "durationMs": 388248,
       "status": "unchanged",
       "page": "glow-expanded-what-is-dividend-yield",
       "viewport": "mobile",
@@ -3455,8 +3466,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:13.107Z",
-      "durationMs": 385690,
+      "timestamp": "2026-09-11T20:57:20.754Z",
+      "durationMs": 389012,
       "status": "unchanged",
       "page": "glow-expanded-what-is-net-expense-ratio",
       "viewport": "mobile",
@@ -3466,8 +3477,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:13.879Z",
-      "durationMs": 386461,
+      "timestamp": "2026-09-11T20:57:21.520Z",
+      "durationMs": 389778,
       "status": "unchanged",
       "page": "glow-expanded-what-is-gross-expense-ratio",
       "viewport": "mobile",
@@ -3477,8 +3488,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:14.690Z",
-      "durationMs": 387272,
+      "timestamp": "2026-09-11T20:57:22.333Z",
+      "durationMs": 390591,
       "status": "unchanged",
       "page": "glow-expanded-growth-chart-time-period",
       "viewport": "mobile",
@@ -3488,8 +3499,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:35.685Z",
-      "durationMs": 408267,
+      "timestamp": "2026-09-11T20:57:43.535Z",
+      "durationMs": 411793,
       "status": "unchanged",
       "page": "ustb",
       "viewport": "mobile",
@@ -3498,8 +3509,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:37.430Z",
-      "durationMs": 410012,
+      "timestamp": "2026-09-11T20:57:45.153Z",
+      "durationMs": 413411,
       "status": "unchanged",
       "page": "ustb-expanded-what-is-overall-morningstar-rating",
       "viewport": "mobile",
@@ -3509,8 +3520,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:38.189Z",
-      "durationMs": 410771,
+      "timestamp": "2026-09-11T20:57:45.930Z",
+      "durationMs": 414188,
       "status": "captured",
       "page": "ustb-expanded-what-is-premium-discount",
       "viewport": "mobile",
@@ -3520,8 +3531,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:38.977Z",
-      "durationMs": 411559,
+      "timestamp": "2026-09-11T20:57:46.732Z",
+      "durationMs": 414990,
       "status": "unchanged",
       "page": "ustb-expanded-what-is-30-day-median-bid-ask-spread",
       "viewport": "mobile",
@@ -3531,8 +3542,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:39.774Z",
-      "durationMs": 412356,
+      "timestamp": "2026-09-11T20:57:47.501Z",
+      "durationMs": 415759,
       "status": "captured",
       "page": "ustb-expanded-what-is-premium-discount",
       "viewport": "mobile",
@@ -3542,8 +3553,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:40.552Z",
-      "durationMs": 413134,
+      "timestamp": "2026-09-11T20:57:48.276Z",
+      "durationMs": 416534,
       "status": "unchanged",
       "page": "ustb-expanded-what-is-30-day-sec-yield-subsidized",
       "viewport": "mobile",
@@ -3553,8 +3564,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:41.318Z",
-      "durationMs": 413900,
+      "timestamp": "2026-09-11T20:57:49.031Z",
+      "durationMs": 417289,
       "status": "unchanged",
       "page": "ustb-expanded-what-is-30-day-sec-yield-unsubsidized",
       "viewport": "mobile",
@@ -3564,8 +3575,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:42.092Z",
-      "durationMs": 414674,
+      "timestamp": "2026-09-11T20:57:49.820Z",
+      "durationMs": 418078,
       "status": "unchanged",
       "page": "ustb-expanded-what-is-dividend-yield",
       "viewport": "mobile",
@@ -3575,8 +3586,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:42.851Z",
-      "durationMs": 415433,
+      "timestamp": "2026-09-11T20:57:50.570Z",
+      "durationMs": 418828,
       "status": "unchanged",
       "page": "ustb-expanded-what-is-net-expense-ratio",
       "viewport": "mobile",
@@ -3586,8 +3597,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:43.624Z",
-      "durationMs": 416206,
+      "timestamp": "2026-09-11T20:57:51.327Z",
+      "durationMs": 419585,
       "status": "unchanged",
       "page": "ustb-expanded-what-is-gross-expense-ratio",
       "viewport": "mobile",
@@ -3597,8 +3608,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:36:44.402Z",
-      "durationMs": 416984,
+      "timestamp": "2026-09-11T20:57:52.137Z",
+      "durationMs": 420395,
       "status": "unchanged",
       "page": "ustb-expanded-growth-chart-time-period",
       "viewport": "mobile",
@@ -3608,8 +3619,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:06.332Z",
-      "durationMs": 438914,
+      "timestamp": "2026-09-11T20:58:12.964Z",
+      "durationMs": 441222,
       "status": "unchanged",
       "page": "practice-management",
       "viewport": "mobile",
@@ -3618,8 +3629,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:08.171Z",
-      "durationMs": 440753,
+      "timestamp": "2026-09-11T20:58:14.831Z",
+      "durationMs": 443089,
       "status": "unchanged",
       "page": "practice-management-expanded-filters",
       "viewport": "mobile",
@@ -3629,8 +3640,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:08.942Z",
-      "durationMs": 441524,
+      "timestamp": "2026-09-11T20:58:15.592Z",
+      "durationMs": 443850,
       "status": "unchanged",
       "page": "practice-management-expanded-what-is-client-ready",
       "viewport": "mobile",
@@ -3640,8 +3651,8 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:37:09.728Z",
-      "durationMs": 442310,
+      "timestamp": "2026-09-11T20:58:16.379Z",
+      "durationMs": 444637,
       "status": "unchanged",
       "page": "practice-management-expanded-what-is-client-ready",
       "viewport": "mobile",
@@ -3651,8 +3662,8 @@
       "captureScope": "element"
     },
     {
-      "timestamp": "2026-09-10T18:37:10.581Z",
-      "durationMs": 443163,
+      "timestamp": "2026-09-11T20:58:17.223Z",
+      "durationMs": 445481,
       "status": "unchanged",
       "page": "practice-management-expanded-products-and-strategies",
       "viewport": "mobile",
@@ -3662,8 +3673,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:11.416Z",
-      "durationMs": 443998,
+      "timestamp": "2026-09-11T20:58:18.044Z",
+      "durationMs": 446302,
       "status": "unchanged",
       "page": "practice-management-expanded-resources-and-insights",
       "viewport": "mobile",
@@ -3673,8 +3684,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:12.257Z",
-      "durationMs": 444839,
+      "timestamp": "2026-09-11T20:58:18.872Z",
+      "durationMs": 447130,
       "status": "unchanged",
       "page": "practice-management-expanded-practice-management",
       "viewport": "mobile",
@@ -3684,8 +3695,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:13.082Z",
-      "durationMs": 445664,
+      "timestamp": "2026-09-11T20:58:19.718Z",
+      "durationMs": 447976,
       "status": "unchanged",
       "page": "practice-management-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -3695,18 +3706,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:18.813Z",
-      "durationMs": 451395,
-      "status": "unchanged",
-      "page": "institutional-homepage",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/institutional/desktop/institutional-homepage.png",
-      "changeStatus": "unchanged",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:37:18.874Z",
-      "durationMs": 451456,
+      "timestamp": "2026-09-11T20:58:25.175Z",
+      "durationMs": 453433,
       "status": "unchanged",
       "page": "institutional-homepage",
       "viewport": "mobile",
@@ -3715,8 +3716,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:20.414Z",
-      "durationMs": 452996,
+      "timestamp": "2026-09-11T20:58:25.290Z",
+      "durationMs": 453548,
+      "status": "unchanged",
+      "page": "institutional-homepage",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/institutional/desktop/institutional-homepage.png",
+      "changeStatus": "unchanged",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:58:26.729Z",
+      "durationMs": 454987,
       "status": "unchanged",
       "page": "institutional-homepage-expanded-capabilities",
       "viewport": "mobile",
@@ -3726,8 +3737,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:21.284Z",
-      "durationMs": 453866,
+      "timestamp": "2026-09-11T20:58:27.587Z",
+      "durationMs": 455845,
       "status": "unchanged",
       "page": "institutional-homepage-expanded-connect-with-us",
       "viewport": "mobile",
@@ -3737,8 +3748,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:21.877Z",
-      "durationMs": 454459,
+      "timestamp": "2026-09-11T20:58:28.416Z",
+      "durationMs": 456674,
       "status": "unchanged",
       "page": "institutional-homepage-desktop-menu-capabilities",
       "viewport": "desktop",
@@ -3748,8 +3759,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:22.195Z",
-      "durationMs": 454777,
+      "timestamp": "2026-09-11T20:58:28.537Z",
+      "durationMs": 456795,
       "status": "unchanged",
       "page": "institutional-homepage-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -3759,8 +3770,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:23.182Z",
-      "durationMs": 455764,
+      "timestamp": "2026-09-11T20:58:29.603Z",
+      "durationMs": 457861,
       "status": "unchanged",
       "page": "institutional-homepage-desktop-menu-insights",
       "viewport": "desktop",
@@ -3770,8 +3781,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:24.377Z",
-      "durationMs": 456959,
+      "timestamp": "2026-09-11T20:58:30.839Z",
+      "durationMs": 459097,
       "status": "unchanged",
       "page": "institutional-homepage-desktop-menu-investment-franchises",
       "viewport": "desktop",
@@ -3781,8 +3792,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:25.578Z",
-      "durationMs": 458160,
+      "timestamp": "2026-09-11T20:58:32.033Z",
+      "durationMs": 460291,
       "status": "unchanged",
       "page": "institutional-homepage-desktop-menu-connect-with-us",
       "viewport": "desktop",
@@ -3792,8 +3803,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:26.769Z",
-      "durationMs": 459351,
+      "timestamp": "2026-09-11T20:58:33.249Z",
+      "durationMs": 461507,
       "status": "unchanged",
       "page": "institutional-homepage-desktop-menu-about-victory-capital",
       "viewport": "desktop",
@@ -3803,8 +3814,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:29.348Z",
-      "durationMs": 461930,
+      "timestamp": "2026-09-11T20:58:35.987Z",
+      "durationMs": 464245,
       "status": "unchanged",
       "page": "about",
       "viewport": "desktop",
@@ -3813,8 +3824,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:31.508Z",
-      "durationMs": 464090,
+      "timestamp": "2026-09-11T20:58:37.985Z",
+      "durationMs": 466243,
       "status": "unchanged",
       "page": "about-expanded-view-transcript",
       "viewport": "desktop",
@@ -3824,8 +3835,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:35.296Z",
-      "durationMs": 467878,
+      "timestamp": "2026-09-11T20:58:41.632Z",
+      "durationMs": 469890,
       "status": "unchanged",
       "page": "franchise-detail",
       "viewport": "desktop",
@@ -3834,8 +3845,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:37.426Z",
-      "durationMs": 470008,
+      "timestamp": "2026-09-11T20:58:43.559Z",
+      "durationMs": 471817,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-investment-capability",
       "viewport": "desktop",
@@ -3845,8 +3856,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:38.510Z",
-      "durationMs": 471092,
+      "timestamp": "2026-09-11T20:58:44.669Z",
+      "durationMs": 472927,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-investment-vehicle",
       "viewport": "desktop",
@@ -3856,8 +3867,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:39.589Z",
-      "durationMs": 472171,
+      "timestamp": "2026-09-11T20:58:45.741Z",
+      "durationMs": 473999,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-asset-class",
       "viewport": "desktop",
@@ -3867,8 +3878,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:40.701Z",
-      "durationMs": 473283,
+      "timestamp": "2026-09-11T20:58:46.694Z",
+      "durationMs": 474952,
       "status": "unchanged",
       "page": "franchise-detail-expanded-rows-per-page",
       "viewport": "desktop",
@@ -3878,8 +3889,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:44.579Z",
-      "durationMs": 477161,
+      "timestamp": "2026-09-11T20:58:50.117Z",
+      "durationMs": 478375,
       "status": "unchanged",
       "page": "insights-hub",
       "viewport": "desktop",
@@ -3888,8 +3899,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:46.596Z",
-      "durationMs": 479178,
+      "timestamp": "2026-09-11T20:58:51.919Z",
+      "durationMs": 480178,
       "status": "unchanged",
       "page": "insights-hub-expanded-recommended",
       "viewport": "desktop",
@@ -3899,8 +3910,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:51.047Z",
-      "durationMs": 483629,
+      "timestamp": "2026-09-11T20:58:55.823Z",
+      "durationMs": 484081,
       "status": "unchanged",
       "page": "capabilities",
       "viewport": "desktop",
@@ -3909,8 +3920,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:54.257Z",
-      "durationMs": 486839,
+      "timestamp": "2026-09-11T20:58:58.884Z",
+      "durationMs": 487142,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-slide-1",
       "viewport": "desktop",
@@ -3920,8 +3931,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:55.116Z",
-      "durationMs": 487698,
+      "timestamp": "2026-09-11T20:58:59.755Z",
+      "durationMs": 488013,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-slide-2",
       "viewport": "desktop",
@@ -3931,8 +3942,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:55.990Z",
-      "durationMs": 488572,
+      "timestamp": "2026-09-11T20:59:00.625Z",
+      "durationMs": 488883,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-slide-3",
       "viewport": "desktop",
@@ -3942,19 +3953,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:56.240Z",
-      "durationMs": 488822,
-      "status": "unchanged",
-      "page": "institutional-homepage-mobile-navigation-open",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/institutional/mobile/institutional-homepage-mobile-navigation-open.png",
-      "changeStatus": "unchanged",
-      "stateType": "mobile-navigation",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:37:56.865Z",
-      "durationMs": 489447,
+      "timestamp": "2026-09-11T20:59:01.485Z",
+      "durationMs": 489743,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-differentiator-1",
       "viewport": "desktop",
@@ -3964,8 +3964,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:57.874Z",
-      "durationMs": 490456,
+      "timestamp": "2026-09-11T20:59:02.500Z",
+      "durationMs": 490758,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-differentiator-2",
       "viewport": "desktop",
@@ -3975,18 +3975,19 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:58.040Z",
-      "durationMs": 490622,
+      "timestamp": "2026-09-11T20:59:02.638Z",
+      "durationMs": 490896,
       "status": "unchanged",
-      "page": "about",
+      "page": "institutional-homepage-mobile-navigation-open",
       "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/institutional/mobile/about.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/institutional/mobile/institutional-homepage-mobile-navigation-open.png",
       "changeStatus": "unchanged",
+      "stateType": "mobile-navigation",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:37:59.021Z",
-      "durationMs": 491603,
+      "timestamp": "2026-09-11T20:59:03.489Z",
+      "durationMs": 491747,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-differentiator-3",
       "viewport": "desktop",
@@ -3996,8 +3997,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:00.031Z",
-      "durationMs": 492613,
+      "timestamp": "2026-09-11T20:59:04.195Z",
+      "durationMs": 492453,
+      "status": "unchanged",
+      "page": "about",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/institutional/mobile/about.png",
+      "changeStatus": "unchanged",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:59:04.464Z",
+      "durationMs": 492722,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-differentiator-4",
       "viewport": "desktop",
@@ -4007,8 +4018,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:00.203Z",
-      "durationMs": 492785,
+      "timestamp": "2026-09-11T20:59:06.134Z",
+      "durationMs": 494392,
       "status": "unchanged",
       "page": "about-expanded-view-transcript",
       "viewport": "mobile",
@@ -4018,8 +4029,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:01.154Z",
-      "durationMs": 493736,
+      "timestamp": "2026-09-11T20:59:07.091Z",
+      "durationMs": 495349,
       "status": "unchanged",
       "page": "about-expanded-insights",
       "viewport": "mobile",
@@ -4029,8 +4040,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:02.057Z",
-      "durationMs": 494639,
+      "timestamp": "2026-09-11T20:59:07.272Z",
+      "durationMs": 495530,
+      "status": "unchanged",
+      "page": "strategies",
+      "viewport": "desktop",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/institutional/desktop/strategies.png",
+      "changeStatus": "unchanged",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T20:59:08.002Z",
+      "durationMs": 496260,
       "status": "unchanged",
       "page": "about-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -4040,18 +4061,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:03.313Z",
-      "durationMs": 495895,
-      "status": "unchanged",
-      "page": "strategies",
-      "viewport": "desktop",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/institutional/desktop/strategies.png",
-      "changeStatus": "unchanged",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:38:05.914Z",
-      "durationMs": 498496,
+      "timestamp": "2026-09-11T20:59:11.408Z",
+      "durationMs": 499666,
       "status": "unchanged",
       "page": "franchise-detail",
       "viewport": "mobile",
@@ -4060,8 +4071,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:07.905Z",
-      "durationMs": 500487,
+      "timestamp": "2026-09-11T20:59:13.282Z",
+      "durationMs": 501540,
       "status": "unchanged",
       "page": "franchise-detail-expanded-on-this-page",
       "viewport": "mobile",
@@ -4071,8 +4082,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:08.752Z",
-      "durationMs": 501334,
+      "timestamp": "2026-09-11T20:59:14.086Z",
+      "durationMs": 502344,
       "status": "unchanged",
       "page": "franchise-detail-expanded-u-s-equity",
       "viewport": "mobile",
@@ -4082,8 +4093,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:09.584Z",
-      "durationMs": 502166,
+      "timestamp": "2026-09-11T20:59:14.883Z",
+      "durationMs": 503141,
       "status": "unchanged",
       "page": "franchise-detail-expanded-fixed-income",
       "viewport": "mobile",
@@ -4093,8 +4104,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:10.427Z",
-      "durationMs": 503009,
+      "timestamp": "2026-09-11T20:59:15.723Z",
+      "durationMs": 503981,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-investment-capability",
       "viewport": "mobile",
@@ -4104,8 +4115,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:11.276Z",
-      "durationMs": 503858,
+      "timestamp": "2026-09-11T20:59:16.542Z",
+      "durationMs": 504800,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-investment-vehicle",
       "viewport": "mobile",
@@ -4115,8 +4126,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:12.117Z",
-      "durationMs": 504699,
+      "timestamp": "2026-09-11T20:59:17.374Z",
+      "durationMs": 505632,
       "status": "unchanged",
       "page": "franchise-detail-expanded-filter-by-asset-class",
       "viewport": "mobile",
@@ -4126,8 +4137,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:12.951Z",
-      "durationMs": 505533,
+      "timestamp": "2026-09-11T20:59:18.214Z",
+      "durationMs": 506472,
       "status": "unchanged",
       "page": "franchise-detail-expanded-sort-products-and-strategies-by-field",
       "viewport": "mobile",
@@ -4137,8 +4148,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:13.785Z",
-      "durationMs": 506367,
+      "timestamp": "2026-09-11T20:59:19.055Z",
+      "durationMs": 507313,
       "status": "unchanged",
       "page": "franchise-detail-expanded-rows-per-page",
       "viewport": "mobile",
@@ -4148,8 +4159,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:14.617Z",
-      "durationMs": 507199,
+      "timestamp": "2026-09-11T20:59:19.877Z",
+      "durationMs": 508135,
       "status": "unchanged",
       "page": "franchise-detail-expanded-capabilities",
       "viewport": "mobile",
@@ -4159,8 +4170,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:15.451Z",
-      "durationMs": 508033,
+      "timestamp": "2026-09-11T20:59:20.701Z",
+      "durationMs": 508959,
       "status": "unchanged",
       "page": "franchise-detail-expanded-connect-with-us",
       "viewport": "mobile",
@@ -4170,8 +4181,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:16.271Z",
-      "durationMs": 508853,
+      "timestamp": "2026-09-11T20:59:21.504Z",
+      "durationMs": 509762,
       "status": "unchanged",
       "page": "franchise-detail-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -4181,8 +4192,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:20.170Z",
-      "durationMs": 512752,
+      "timestamp": "2026-09-11T20:59:25.367Z",
+      "durationMs": 513625,
       "status": "unchanged",
       "page": "insights-hub",
       "viewport": "mobile",
@@ -4191,8 +4202,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:22.137Z",
-      "durationMs": 514719,
+      "timestamp": "2026-09-11T20:59:27.238Z",
+      "durationMs": 515496,
       "status": "unchanged",
       "page": "insights-hub-expanded-subscribe-to-updates",
       "viewport": "mobile",
@@ -4202,8 +4213,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:22.977Z",
-      "durationMs": 515559,
+      "timestamp": "2026-09-11T20:59:28.079Z",
+      "durationMs": 516337,
       "status": "unchanged",
       "page": "insights-hub-expanded-recommended",
       "viewport": "mobile",
@@ -4213,8 +4224,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:23.792Z",
-      "durationMs": 516374,
+      "timestamp": "2026-09-11T20:59:28.886Z",
+      "durationMs": 517144,
       "status": "unchanged",
       "page": "insights-hub-expanded-capabilities",
       "viewport": "mobile",
@@ -4224,8 +4235,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:24.593Z",
-      "durationMs": 517175,
+      "timestamp": "2026-09-11T20:59:29.683Z",
+      "durationMs": 517941,
       "status": "unchanged",
       "page": "insights-hub-expanded-connect-with-us",
       "viewport": "mobile",
@@ -4235,8 +4246,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:25.403Z",
-      "durationMs": 517985,
+      "timestamp": "2026-09-11T20:59:30.467Z",
+      "durationMs": 518725,
       "status": "unchanged",
       "page": "insights-hub-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -4246,8 +4257,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:29.217Z",
-      "durationMs": 521799,
+      "timestamp": "2026-09-11T20:59:34.116Z",
+      "durationMs": 522374,
       "status": "unchanged",
       "page": "capabilities",
       "viewport": "mobile",
@@ -4256,8 +4267,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:31.052Z",
-      "durationMs": 523634,
+      "timestamp": "2026-09-11T20:59:36.124Z",
+      "durationMs": 524382,
       "status": "unchanged",
       "page": "capabilities-expanded-capabilities",
       "viewport": "mobile",
@@ -4267,8 +4278,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:31.850Z",
-      "durationMs": 524432,
+      "timestamp": "2026-09-11T20:59:36.936Z",
+      "durationMs": 525194,
       "status": "unchanged",
       "page": "capabilities-expanded-connect-with-us",
       "viewport": "mobile",
@@ -4278,8 +4289,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:32.684Z",
-      "durationMs": 525266,
+      "timestamp": "2026-09-11T20:59:37.742Z",
+      "durationMs": 526000,
       "status": "unchanged",
       "page": "capabilities-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -4289,8 +4300,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:34.768Z",
-      "durationMs": 527350,
+      "timestamp": "2026-09-11T20:59:39.544Z",
+      "durationMs": 527802,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-slide-1",
       "viewport": "mobile",
@@ -4300,8 +4311,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:35.594Z",
-      "durationMs": 528176,
+      "timestamp": "2026-09-11T20:59:40.370Z",
+      "durationMs": 528628,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-slide-2",
       "viewport": "mobile",
@@ -4311,8 +4322,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:36.415Z",
-      "durationMs": 528997,
+      "timestamp": "2026-09-11T20:59:41.169Z",
+      "durationMs": 529427,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-slide-3",
       "viewport": "mobile",
@@ -4322,8 +4333,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:37.249Z",
-      "durationMs": 529831,
+      "timestamp": "2026-09-11T20:59:41.992Z",
+      "durationMs": 530250,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-differentiator-1",
       "viewport": "mobile",
@@ -4333,8 +4344,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:38.149Z",
-      "durationMs": 530731,
+      "timestamp": "2026-09-11T20:59:42.873Z",
+      "durationMs": 531131,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-differentiator-2",
       "viewport": "mobile",
@@ -4344,8 +4355,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:39.039Z",
-      "durationMs": 531621,
+      "timestamp": "2026-09-11T20:59:43.795Z",
+      "durationMs": 532053,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-differentiator-3",
       "viewport": "mobile",
@@ -4355,8 +4366,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:39.946Z",
-      "durationMs": 532528,
+      "timestamp": "2026-09-11T20:59:44.620Z",
+      "durationMs": 532878,
       "status": "unchanged",
       "page": "capabilities-tab-go-to-differentiator-4",
       "viewport": "mobile",
@@ -4366,8 +4377,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:42.621Z",
-      "durationMs": 535203,
+      "timestamp": "2026-09-11T20:59:47.159Z",
+      "durationMs": 535417,
       "status": "unchanged",
       "page": "strategies",
       "viewport": "mobile",
@@ -4376,8 +4387,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:44.391Z",
-      "durationMs": 536973,
+      "timestamp": "2026-09-11T20:59:49.167Z",
+      "durationMs": 537425,
       "status": "unchanged",
       "page": "strategies-expanded-filters",
       "viewport": "mobile",
@@ -4387,8 +4398,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:45.206Z",
-      "durationMs": 537788,
+      "timestamp": "2026-09-11T20:59:50.008Z",
+      "durationMs": 538266,
       "status": "unchanged",
       "page": "strategies-expanded-insights",
       "viewport": "mobile",
@@ -4398,8 +4409,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:46.006Z",
-      "durationMs": 538588,
+      "timestamp": "2026-09-11T20:59:50.853Z",
+      "durationMs": 539111,
       "status": "unchanged",
       "page": "strategies-expanded-about-victory-capital",
       "viewport": "mobile",
@@ -4409,8 +4420,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:54.060Z",
-      "durationMs": 546642,
+      "timestamp": "2026-09-11T20:59:59.048Z",
+      "durationMs": 547306,
       "status": "unchanged",
       "page": "advisor-dashboard",
       "viewport": "mobile",
@@ -4419,8 +4430,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:38:54.240Z",
-      "durationMs": 546822,
+      "timestamp": "2026-09-11T20:59:59.620Z",
+      "durationMs": 547878,
       "status": "unchanged",
       "page": "advisor-dashboard",
       "viewport": "desktop",
@@ -4429,8 +4440,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:01.308Z",
-      "durationMs": 613890,
+      "timestamp": "2026-09-11T21:01:06.833Z",
+      "durationMs": 615091,
       "status": "unchanged",
       "page": "value-add-post-login",
       "viewport": "desktop",
@@ -4439,8 +4450,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:01.584Z",
-      "durationMs": 614166,
+      "timestamp": "2026-09-11T21:01:06.989Z",
+      "durationMs": 615247,
       "status": "unchanged",
       "page": "value-add-post-login",
       "viewport": "mobile",
@@ -4449,18 +4460,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:41.830Z",
-      "durationMs": 654412,
-      "status": "captured",
-      "page": "search-ai",
-      "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-ai.png",
-      "changeStatus": "changed",
-      "captureScope": "full-page"
-    },
-    {
-      "timestamp": "2026-09-10T18:40:42.014Z",
-      "durationMs": 654596,
+      "timestamp": "2026-09-11T21:01:48.032Z",
+      "durationMs": 656290,
       "status": "captured",
       "page": "search-ai",
       "viewport": "desktop",
@@ -4469,18 +4470,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:43.211Z",
-      "durationMs": 655793,
+      "timestamp": "2026-09-11T21:01:48.464Z",
+      "durationMs": 656722,
       "status": "captured",
-      "page": "search-known-item",
+      "page": "search-ai",
       "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-known-item.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-ai.png",
       "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:43.506Z",
-      "durationMs": 656088,
+      "timestamp": "2026-09-11T21:01:49.462Z",
+      "durationMs": 657720,
       "status": "captured",
       "page": "search-known-item",
       "viewport": "desktop",
@@ -4489,18 +4490,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:44.686Z",
-      "durationMs": 657268,
+      "timestamp": "2026-09-11T21:01:50.054Z",
+      "durationMs": 658312,
       "status": "captured",
-      "page": "search-filter-coordination",
+      "page": "search-known-item",
       "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-filter-coordination.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-known-item.png",
       "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:45.052Z",
-      "durationMs": 657634,
+      "timestamp": "2026-09-11T21:01:51.074Z",
+      "durationMs": 659332,
       "status": "captured",
       "page": "search-filter-coordination",
       "viewport": "desktop",
@@ -4509,18 +4510,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:45.924Z",
-      "durationMs": 658506,
+      "timestamp": "2026-09-11T21:01:51.619Z",
+      "durationMs": 659877,
       "status": "captured",
-      "page": "search-query-interpretation",
+      "page": "search-filter-coordination",
       "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-query-interpretation.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-filter-coordination.png",
       "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:46.561Z",
-      "durationMs": 659143,
+      "timestamp": "2026-09-11T21:01:52.629Z",
+      "durationMs": 660887,
       "status": "captured",
       "page": "search-query-interpretation",
       "viewport": "desktop",
@@ -4529,18 +4530,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:47.433Z",
-      "durationMs": 660015,
+      "timestamp": "2026-09-11T21:01:53.162Z",
+      "durationMs": 661420,
       "status": "captured",
-      "page": "search-recovery-resilience",
+      "page": "search-query-interpretation",
       "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-recovery-resilience.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-query-interpretation.png",
       "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:48.051Z",
-      "durationMs": 660633,
+      "timestamp": "2026-09-11T21:01:54.077Z",
+      "durationMs": 662335,
       "status": "captured",
       "page": "search-recovery-resilience",
       "viewport": "desktop",
@@ -4549,18 +4550,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:48.966Z",
-      "durationMs": 661548,
+      "timestamp": "2026-09-11T21:01:54.670Z",
+      "durationMs": 662928,
       "status": "captured",
-      "page": "search-clarification",
+      "page": "search-recovery-resilience",
       "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-clarification.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-recovery-resilience.png",
       "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:49.615Z",
-      "durationMs": 662197,
+      "timestamp": "2026-09-11T21:01:55.659Z",
+      "durationMs": 663917,
       "status": "captured",
       "page": "search-clarification",
       "viewport": "desktop",
@@ -4569,18 +4570,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:50.340Z",
-      "durationMs": 662922,
+      "timestamp": "2026-09-11T21:01:56.392Z",
+      "durationMs": 664650,
       "status": "captured",
-      "page": "search-assistant-follow-up",
+      "page": "search-clarification",
       "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-assistant-follow-up.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-clarification.png",
       "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:50.953Z",
-      "durationMs": 663535,
+      "timestamp": "2026-09-11T21:01:57.270Z",
+      "durationMs": 665528,
       "status": "captured",
       "page": "search-assistant-follow-up",
       "viewport": "desktop",
@@ -4589,18 +4590,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:51.879Z",
-      "durationMs": 664461,
+      "timestamp": "2026-09-11T21:01:57.816Z",
+      "durationMs": 666074,
       "status": "captured",
-      "page": "search-assistant-reset",
+      "page": "search-assistant-follow-up",
       "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-assistant-reset.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-assistant-follow-up.png",
       "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:52.528Z",
-      "durationMs": 665110,
+      "timestamp": "2026-09-11T21:01:58.837Z",
+      "durationMs": 667095,
       "status": "captured",
       "page": "search-assistant-reset",
       "viewport": "desktop",
@@ -4609,18 +4610,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:53.443Z",
-      "durationMs": 666025,
+      "timestamp": "2026-09-11T21:01:59.225Z",
+      "durationMs": 667483,
       "status": "captured",
-      "page": "search-clear-reset",
+      "page": "search-assistant-reset",
       "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-clear-reset.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-assistant-reset.png",
       "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:54.112Z",
-      "durationMs": 666694,
+      "timestamp": "2026-09-11T21:02:00.419Z",
+      "durationMs": 668677,
       "status": "captured",
       "page": "search-clear-reset",
       "viewport": "desktop",
@@ -4629,18 +4630,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:54.952Z",
-      "durationMs": 667534,
+      "timestamp": "2026-09-11T21:02:00.854Z",
+      "durationMs": 669112,
       "status": "captured",
-      "page": "search-synonym",
+      "page": "search-clear-reset",
       "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-synonym.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-clear-reset.png",
       "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:55.552Z",
-      "durationMs": 668134,
+      "timestamp": "2026-09-11T21:02:02.215Z",
+      "durationMs": 670473,
       "status": "captured",
       "page": "search-synonym",
       "viewport": "desktop",
@@ -4649,18 +4650,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:56.346Z",
-      "durationMs": 668928,
+      "timestamp": "2026-09-11T21:02:02.383Z",
+      "durationMs": 670641,
       "status": "captured",
-      "page": "search-unavailable",
+      "page": "search-synonym",
       "viewport": "mobile",
-      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-unavailable.png",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-synonym.png",
       "changeStatus": "changed",
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:57.180Z",
-      "durationMs": 669762,
+      "timestamp": "2026-09-11T21:02:03.848Z",
+      "durationMs": 672106,
       "status": "captured",
       "page": "search-unavailable",
       "viewport": "desktop",
@@ -4669,8 +4670,18 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:57.955Z",
-      "durationMs": 670537,
+      "timestamp": "2026-09-11T21:02:03.931Z",
+      "durationMs": 672189,
+      "status": "captured",
+      "page": "search-unavailable",
+      "viewport": "mobile",
+      "file": "/Users/daryl.ohrt/figma-screenshot-automation/screenshots/vcm-website/special-states/search/mobile/search-unavailable.png",
+      "changeStatus": "changed",
+      "captureScope": "full-page"
+    },
+    {
+      "timestamp": "2026-09-11T21:02:05.410Z",
+      "durationMs": 673668,
       "status": "captured",
       "page": "search-pagination",
       "viewport": "mobile",
@@ -4679,8 +4690,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:58.605Z",
-      "durationMs": 671187,
+      "timestamp": "2026-09-11T21:02:05.547Z",
+      "durationMs": 673805,
       "status": "captured",
       "page": "search-pagination",
       "viewport": "desktop",
@@ -4689,8 +4700,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:40:59.489Z",
-      "durationMs": 672071,
+      "timestamp": "2026-09-11T21:02:06.968Z",
+      "durationMs": 675226,
       "status": "captured",
       "page": "search-ticker",
       "viewport": "mobile",
@@ -4699,8 +4710,8 @@
       "captureScope": "full-page"
     },
     {
-      "timestamp": "2026-09-10T18:41:00.163Z",
-      "durationMs": 672745,
+      "timestamp": "2026-09-11T21:02:07.061Z",
+      "durationMs": 675319,
       "status": "captured",
       "page": "search-ticker",
       "viewport": "desktop",
